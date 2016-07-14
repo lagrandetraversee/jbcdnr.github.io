@@ -4,6 +4,12 @@ layout: default
 
 
 <div id="content" class="content">
+
+    <p style="text-align: left;">
+        Bonjour à tous,
+
+    </p>
+
     <h3>Nos aventures les plus récentes</h3>
     <ul class="category recent-posts">       
         {% for post in site.posts  %}
@@ -28,6 +34,10 @@ layout: default
         {% endunless %}
         {% endfor %}
     </ul>
+
+     <h3>Où en sommes nous ?</h3>
+
+    <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=84.60845947265625%2C27.307112806993704%2C86.02294921875%2C28.105903469076186&amp;layer=hot&amp;marker=27.70723919707412%2C85.31570434570312" style="border: 0px solid black"></iframe><br/>
 
 
 </div>
