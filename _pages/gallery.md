@@ -1,11 +1,11 @@
 ---
 layout:    page
-permalink: "/offline-warning/"
-author:    jwillmer
-weight:    5
-menutitle: Offline
-title:     Offline Warning
-excerpt:   If you click on the link below it will render all content of the blog in one site. This can take some time!
+permalink: "/gallery/"
+author:    jb
+weight:    100
+menutitle: Gallerie
+title:     Gallerie
+excerpt:   Toutes les images de nos aventures au Népal.
 ---
 
 
