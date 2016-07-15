@@ -1,10 +1,9 @@
-# jekyllDecent
-[![Build Status](https://travis-ci.org/jwillmer/jekyllDecent.svg?branch=gh-pages)](https://travis-ci.org/jwillmer/jekyllDecent) 
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](#license)
-[![Release v1.1.5](https://img.shields.io/badge/release-v1.1.5-blue.svg)](https://github.com/jwillmer/jekyllDecent/releases/tag/1.1.5)
+# Blog de notre Voyage au Népal
 
-This is a blog template for a static site generator named [Jekyll](https://jekyllrb.com/docs/home/) based on a [Ghost](https://ghost.org) template named [Decent](https://github.com/serenader2014/decent). 
-
-Installation instructions, features, previews and more can be found in the **[GitHub generated blog](http://jwillmer.github.io/jekyllDecent)**. This blog is automatically generated out of the source code in the `gh-pages` branch. If you like to see the theme in production have a look at [jwillmer.de](http://jwillmer.de).
-
-[![](./media/img/2016-06-08-Readme-front-page-previewe.jpg)](http://jwillmer.github.io/jekyllDecent)
+- les articles sont rédigés dans des fichiers séparés dans `/_posts/` avec la date dans le titre. Voir les autres articles pour des examples.
+- les pages sont dans `/_pages/`
+- la page d'accueil est dans `/index.html`
+- on peut utiliser le [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables) pour mettre en forme les articles (dans les fichiers .md) sinon c'est du html tout simple. Il y a quelques options en plus avec le theme que tu peux regarder [là](http://jwillmer.github.io/jekyllDecent/) dans Features.
+- les images sont dans `/media/img/`
+- pour ajouter une image à la gallerie, il faut l'ajouter dans le dossier images puis l'ajouter dans la liste du fichier `/pages/gallery.md`. Il faut donner le chemin du fichier et une légende (optionnel),
+- tu peux changer l'image de couverture de chaque page en modifiant le champ `cover` du header du fichier. Utilise ajoute `draft: true` dans le header pour cacher l'article que tu es en train de rédiger.
