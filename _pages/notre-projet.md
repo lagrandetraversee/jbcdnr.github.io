@@ -22,4 +22,4 @@ TODO
 
 TODO Description de Pierre
 
-TODO Description de JB
+TODO Description de JB.
