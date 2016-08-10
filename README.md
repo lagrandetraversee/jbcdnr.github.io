@@ -7,3 +7,4 @@
 - les images sont dans `/media/img/`
 - pour ajouter une image à la gallerie, il faut l'ajouter dans le dossier images puis l'ajouter dans la liste du fichier `/pages/gallery.md`. Il faut donner le chemin du fichier et une légende (optionnel),
 - tu peux changer l'image de couverture de chaque page en modifiant le champ `cover` du header du fichier. Utilise ajoute `draft: true` dans le header pour cacher l'article que tu es en train de rédiger.
+- on utilise `/school/index.md` pour les idées liées à l'école
