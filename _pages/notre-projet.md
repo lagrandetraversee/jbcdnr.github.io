@@ -22,4 +22,32 @@ TODO
 
 TODO Description de Pierre
 
-TODO Description de JB.
+Quant à JB il est incroyablement fort et intelligent, n'est ce pas ?
+
+## Notre matériel
+
+La randonnée itinérante pendant des périodes aussi longues demande beaucoup de préparation logistique. Nous sommes tous les deux habitués au randonnées de quelques jours mais pas en haute altitude. Nous avons donc dû nous renseigner sur le matériel conseillé. Nous mettons un point d'honneur à partir léger pour éviter de s'user inutilement, nous visons donc d'être en dessous des 12kg tout compris.
+
+Voici une liste sommaire du matériel que nous emporterons:
+
+- tente 2 places
+- sac de couchage (1˚ confort)
+- sac de couchage polaire en plus
+- tapis de sol
+- réchaud à essence
+- popotte
+- couteau suisse / opinel
+- eau 2L par personne
+- boussolle
+- lampe frontale
+- altimètre
+- cartes des régions traversées
+- battons de marche
+- couverture de survie
+- chaussures de marche
+- chaussures de sport
+- veste
+- doudoune
+- polaire technique
+- T-shirt respirants
+- short et pantalon de randonnée
