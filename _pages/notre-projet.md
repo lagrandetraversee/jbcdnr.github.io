@@ -8,7 +8,7 @@ excerpt:   L'explication de notre projet et de nos motivations.
 ---
 
 
-Après plusieurs mois de préparation, nous nous apprêtons à partir pour ladite « demeure des Dieux », autrement dit le Népal. Du camp de base du mont Kanchenjunga au Far West Népalais, en passant par les mythiques massifs de l’Everest et des Annapurnas, plus de 1000 kms de marche nous attendent dès fin septembre prochain. 
+Après plusieurs mois de préparation, nous nous apprêtons à partir pour ladite « demeure des Dieux », autrement dit le Népal. Du camp de base du mont Kanchenjunga au Far West népalais, en passant par les mythiques massifs de l’Everest et des Annapurnas, plus de 1000 kms de marche nous attendent dès fin septembre prochain. 
 
 A travers ce périple, nous souhaitons relever deux défis majeurs. Le premier est un challenge physique : malgré l’attention que nous portons à notre condition physique et à nos petits -mais vaillants- mollets, nous n’avons jamais réalisé de trek sur si longue période ni à si haute altitude. Cela n’est évidemment pas pour rassurer nos mamans… Au delà de cette dimension sportive, nous souhaitons aller à la rencontre de la culture népalaise avec pour objectif de transmettre notre immersion culturelle à une classe de primaire de l’école Saint-Michel (Annecy-74) qui nous suivra virtuellement tout au long de notre périple. Grâce à des contacts réguliers avec ces enfants de CM2 via notre site, et par l’intermédiaire d’une balise satellite qui retranscrira notre progression en temps réel sur une carte (cf …), nous espérons partager et impliquer du mieux possible l’ensemble de la classe dans notre belle aventure.
 
