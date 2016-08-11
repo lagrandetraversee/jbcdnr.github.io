@@ -3,11 +3,10 @@ layout:    page
 permalink: "/notre-projet/"
 weight:    5
 menutitle: Notre Projet
-title:     Notre Projet
+title:     75 jours à pieds pour traverser le Népal d’Est en Ouest
 excerpt:   L'explication de notre projet et de nos motivations.
 ---
 
-## 75 jours à pieds pour traverser le Népal d’Est en Ouest
 
 Après plusieurs mois de préparation, nous nous apprêtons à partir pour ladite « demeure des Dieux », autrement dit le Népal. Du camp de base du mont Kanchenjunga au Far West Népalais, en passant par les mythiques massifs de l’Everest et des Annapurnas, plus de 1000 kms de marche nous attendent dès fin septembre prochain. 
 
