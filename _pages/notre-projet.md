@@ -7,11 +7,11 @@ title:     Notre Projet
 excerpt:   L'explication de notre projet et de nos motivations.
 ---
 
-## La motivation
+## 75 jours à pieds pour traverser le Népal d’Est en Ouest
 
-Nous avons pour objectif de traverser le Népal à pieds à l'automne prochain, de fin septembre à mi-décembre. Le projet avance progressivement: itinéraire, collecte d'informations sur le pays, préparation physique... Au delà de tous ces aspects, nous envisageons de partager notre expérience via un site web et de faire vivre notre aventure à de plus jeunes que nous, une idée pleine de sens pour nous.
+Après plusieurs mois de préparation, nous nous apprêtons à partir pour ladite « demeure des Dieux », autrement dit le Népal. Du camp de base du mont Kanchenjunga au Far West Népalais, en passant par les mythiques massifs de l’Everest et des Annapurnas, plus de 1000 kms de marche nous attendent dès fin septembre prochain. 
 
-Plus précisément, nous souhaiterions construire un projet pédagogique en associant à notre périple une classe de primaire afin de faire découvrir ce pays. Par exemple, nous imaginons présenter notre projet et le pays devant la classe, transmettre des comptes rendus de façon régulière, et faire un retour d'expérience après le voyage.
+A travers ce périple, nous souhaitons relever deux défis majeurs. Le premier est un challenge physique : malgré l’attention que nous portons à notre condition physique et à nos petits -mais vaillants- mollets, nous n’avons jamais réalisé de trek sur si longue période ni à si haute altitude. Cela n’est évidemment pas pour rassurer nos mamans… Au delà de cette dimension sportive, nous souhaitons aller à la rencontre de la culture népalaise avec pour objectif de transmettre notre immersion culturelle à une classe de primaire de l’école Saint-Michel (Annecy-74) qui nous suivra virtuellement tout au long de notre périple. Grâce à des contacts réguliers avec ces enfants de CM2 via notre site, et par l’intermédiaire d’une balise satellite qui retranscrira notre progression en temps réel sur une carte (cf …), nous espérons partager et impliquer du mieux possible l’ensemble de la classe dans notre belle aventure.
 
 ## L'itinéraire
 
