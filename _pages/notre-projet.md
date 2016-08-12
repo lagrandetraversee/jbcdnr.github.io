@@ -2,6 +2,7 @@
 layout:    page
 permalink: "/notre-projet/"
 weight:    5
+align: justify
 menutitle: Notre Projet
 title:     75 jours à pieds pour traverser le Népal d’Est en Ouest
 excerpt:   L'explication de notre projet et de nos motivations.
