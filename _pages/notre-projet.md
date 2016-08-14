@@ -14,7 +14,7 @@ A travers ce périple, nous souhaitons relever deux défis. Le premier est un ch
 
 ## L'itinéraire
 
-TODO
+
 
 
 ## Qui sommes nous ?
