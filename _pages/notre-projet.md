@@ -14,7 +14,7 @@ A travers ce périple, nous souhaitons relever deux défis. Le premier est un ch
 
 ## L'itinéraire
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/Itinéraire Népal Final.jpg "Logo Title Text 1")
+![alt text](https://jbcdnr.github.io/media/img/Itinéraire Népal Final.jpg "Logo Title Text 1")
 
 
 ## Qui sommes nous ?
