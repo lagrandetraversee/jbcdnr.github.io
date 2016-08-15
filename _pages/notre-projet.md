@@ -18,11 +18,11 @@ A travers ce périple, nous souhaitons relever deux défis. Le premier est un ch
 <br>
 ![alt text](https://jbcdnr.github.io/media/img/Itinéraire Népal Final.jpg "Logo Title Text 1")
 
-<br><center>Plus de 1000kms de marche à des altitudes variant jusqu’à 5550m seront nécessaires pour atteindre le frontière Ouest. Alternant entre la piste haute et la piste basse du Great Himalaya Trail (GHT), nous avons tracé notre itinéraire comme suit.<center/>
+<br>Plus de 1000kms de marche à des altitudes variant jusqu’à 5550m seront nécessaires pour atteindre le frontière Ouest. Alternant entre la piste haute et la piste basse du Great Himalaya Trail (GHT), nous avons tracé notre itinéraire comme suit.
 
 Après notre arrivée à Katmandou (1400m) par avion, nous rejoindrons Taplejung (1900m) en bus/jeep/autre située au Sud de Ghunsa (3595m). Nous effectuerons alors une boucle dans la région du Kanchenjunga pour atteindre Ghunsa puis revenir à Taplejung avant de repartir vers l’Ouest, direction la région de l’Everest.
 
-Impossible de découvrir le Népal sans s’approcher du « Toit du Monde ». Arrivés dans la région de l’Everest, nous remonterons donc au Nord pour réaliser une seconde boucle qui promet un spectacle époustouflant:
+Impossible de découvrir le Népal sans s’approcher du « Toit du Monde ». C'est pourquoi, lorsque nous arriverons dans la région de l’Everest, nous remonterons au Nord pour réaliser une seconde boucle qui promet un spectacle époustouflant:
 <br>-	Des cols à plus de 5000m d’altitude (le terme «La» signifie «col» en népali);
 <br>-	Le Kala Pattar (5545m): son nom se traduit par «Roche Noire» en népali et en hindi. Il est réputé pour la vue splendide qu’il offre sur l’Everest;
 <br>-	Les lacs de Gokyo: au nombre de 6, ils sont situés à plus de 4700m d’altitude.
