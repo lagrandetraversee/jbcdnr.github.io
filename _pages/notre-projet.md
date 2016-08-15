@@ -30,11 +30,11 @@ Impossible de découvrir le Népal sans s’approcher du « Toit du Monde ». 
 
 Après quelques jours de repos dans la capitale, nous reprendrons la route en bus/jeep/autre en direction du Dunche pour rejoindre la piste haute du GHT. Là, nous repartirons à pied pour traverser 3 belles régions (Manaslu, Annapurna, Mustang) et 2 passes d’altitude (Larky La, Thorong La).
 
-Nous arriverons alors dans la région du Dolpo, où nous nous orienterons vers le Sud pour rejoindre la piste basse. Nous poursuivrons ainsi jusqu’à Martadi (2000m), jalon important sur notre parcours: c'est en effet à ce moment que nous déciderons, en fonction du temps restant, si nous terminons le trek à pied ou si nous empruntons un moyen de transport pour rallier la frontière Ouest. A voir… et que l’aventure commence!
+Nous arriverons alors dans la région du Dolpo, où nous nous orienterons vers le Sud pour rejoindre la piste basse du GHT. Nous poursuivrons ainsi jusqu’à Martadi (2000m), jalon important sur notre parcours: c'est en effet à ce moment que nous déciderons, en fonction du temps restant, si nous terminons le trek à pied ou si nous empruntons un moyen de transport pour rallier la frontière Ouest. A voir… et que l’aventure commence!
 
-Le Népal est traversé par deux «routes» de trekking principales reliant les régions de treks les plus connues :
+<p><center>Le Népal est traversé d'Est en Ouest par deux voies reliant les régions de trekking les plus connues :
 <br>- La piste haute : située au Nord, elle s’étend sur une distance d’environ 1700 km et franchit des sites spectaculaires en haute montagne. Elle visite ainsi des villages parmi les plus isolés.
-<br>- La piste basse : aussi appelée «route culturelle» en raison des nombreux villages traversés, elle sillonne la vallée à une altitude moyenne de 2000m.
+<br>- La piste basse : aussi appelée «route culturelle» en raison des nombreux villages traversés, elle sillonne la vallée à une altitude moyenne de 2000m.</p></center>
 
 ## Qui sommes nous ?
 
