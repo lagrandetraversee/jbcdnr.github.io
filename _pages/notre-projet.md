@@ -17,20 +17,19 @@ A travers ce périple, nous souhaitons relever deux défis. Le premier est un ch
 <center><B>Objectif: rallier la frontière Ouest du Népal en partant du Ghunsa, extrême Est.</B></center>
 <br>
 ![alt text](https://jbcdnr.github.io/media/img/Itinéraire Népal Final.jpg "Logo Title Text 1")
-<br>
-Plus de 1000kms de marche à des altitudes variant jusqu’à 5550m seront nécessaires pour atteindre le frontière Ouest. Alternant entre la piste haute et la piste basse du Great Himalaya Trail* (GHT), nous avons tracé notre itinéraire comme suit.
+<br>Plus de 1000kms de marche à des altitudes variant jusqu’à 5550m seront nécessaires pour atteindre le frontière Ouest. Alternant entre la piste haute et la piste basse du Great Himalaya Trail (GHT), nous avons tracé notre itinéraire comme suit.
 
 Après notre arrivée à Katmandou (1400m) par avion, nous rejoindrons Taplejung (1900m) en bus/jeep/autre située au Sud de Ghunsa (3595m). Nous effectuerons alors une boucle dans la région du Kanchenjunga pour atteindre Ghunsa puis revenir à Taplejung avant de repartir vers l’Ouest, direction la région de l’Everest.
 
-<br>Impossible d’aller au Népal sans s’approcher du « Toit du Monde ». Arrivés dans la région de l’Everest, nous remonterons donc au Nord pour réaliser une seconde boucle qui promet un spectacle époustouflant:
+<br>Impossible de découvrir le Népal sans s’approcher du « Toit du Monde ». Arrivés dans la région de l’Everest, nous remonterons donc au Nord pour réaliser une seconde boucle qui promet un spectacle époustouflant:
 <br>-	Des cols à plus de 5000m d’altitude (le terme «La» signifie «col» en népali);
 <br>-	Le Kala Pattar (5545m): son nom se traduit par «Roche Noire» en népali et en hindi. Il est réputé pour la vue splendide qu’il offre sur l’Everest;
 <br>-	Les lacs de Gokyo: au nombre de 6, ils sont situés à plus de 4700m d’altitude.
-Une fois la boucle bouclée, nous nous dirigerons vers Jiri afin de trouver un moyen de transport pour atteindre Katmandou. Nous espérons réaliser l’ensemble de cette première section de notre trek (Ghunsa-Katmandou) en moins d’un mois.
+<br>Une fois la boucle bouclée, nous nous dirigerons vers Jiri afin de trouver un moyen de transport pour atteindre Katmandou. Nous espérons réaliser l’ensemble de cette première section (Ghunsa-Katmandou) en moins d’un mois.
 
 Après quelques jours de repos dans la capitale, nous reprendrons la route en bus/jeep/autre en direction du Dunche pour rejoindre la piste haute du GHT. Là, nous repartirons à pied pour traverser 3 belles régions (Manaslu, Annapurna, Mustang) et 2 passes d’altitude (Larky La, Thorong La).
 
-Nous arriverons alors dans la région du Dolpo, où nous nous orienterons vers le Sud pour rejoindre la piste basse. Nous poursuivrons ainsi jusqu’à Martadi (2000m), jalon important sur notre parcours: nous déciderons, en fonction du temps restant, si nous terminons le trek à pied ou si nous empruntons un moyen de transport pour rallier la frontière Ouest. A voir… et que l’aventure commence!
+Nous arriverons alors dans la région du Dolpo, où nous nous orienterons vers le Sud pour rejoindre la piste basse. Nous poursuivrons ainsi jusqu’à Martadi (2000m), jalon important sur notre parcours: c'est en effet à ce moment que nous déciderons, en fonction du temps restant, si nous terminons le trek à pied ou si nous empruntons un moyen de transport pour rallier la frontière Ouest. A voir… et que l’aventure commence!
 
 <br>Le Népal est traversé par deux «routes» de trekking principales reliant les régions de treks les plus connues :
 <br>- La piste haute : située au Nord, elle s’étend sur une distance d’environ 1700 km et franchit des sites spectaculaires en haute montagne. Elle visite ainsi des villages parmi les plus isolés.
@@ -38,7 +37,7 @@ Nous arriverons alors dans la région du Dolpo, où nous nous orienterons vers l
 
 ## Qui sommes nous ?
 
-*Pierre* est un homme des montagnes, originaire d'Annecy en Haute-Savoie, il est maintenant partagé entre Nantes et Paris. C'est un garçon agréable et sympatique, toujours partant pour l'aventure et l'organisation à la dernière minute. Il apprend la vie grâce au scoutisme, avec a son actif pas moins de **100** (change...) camp d'été. Il quitte son fief de Sévrier après son baccalauréat pour poursuivre ses études de commerces à Lyon puis à Nantes (Audencia), il est maintenant en stage à Paris dans la fusion aquisition (fusac'). *Un diction ?* Vous avez tout à gagner. 
+*Pierre* est un homme des montagnes, originaire d'Annecy en Haute-Savoie, il est maintenant partagé entre Nantes et Paris. C'est un garçon agréable et sympatique, toujours partant pour l'aventure. Il apprend la vie grâce au scoutisme, avec a son actif pas moins de **100** (change...) camp d'été. Il quitte son fief de Sévrier après son baccalauréat pour poursuivre ses études de commerces à Lyon puis à Nantes (Audencia), il est maintenant en stage à Paris dans la fusion aquisition (fusac'). *Un diction ?* Vous avez tout à gagner. 
 
 Quant à JB il est incroyablement fort et intelligent, n'est ce pas ?
 
