@@ -36,6 +36,10 @@ Le Népal est traversé d'Est en Ouest par deux voies reliant les régions de tr
 <br>- La piste haute : située au Nord, elle s’étend sur une distance d’environ 1700 km et franchit des sites spectaculaires en haute montagne. Elle visite ainsi des villages parmi les plus isolés.
 <br>- La piste basse : aussi appelée «route culturelle» en raison des nombreux villages traversés, elle sillonne la vallée à une altitude moyenne de 2000m.
 
+<span class="spip_note_ref">&nbsp;[<a href='#nb2' class='spip_note' rel='footnote' title='Citation apocryphe attribuée à Voltaire.' id='nh2'>2</a>]</span>.
+
+<p><span class="spip_note_ref">[<a href='#nh2' class='spip_note' title='Notes 2' rev='footnote'>2</a>]&nbsp;</span>Citation apocryphe attribuée à Voltaire.</p>
+
 ## Qui sommes nous ?
 
 *Pierre* est un homme des montagnes, originaire d'Annecy en Haute-Savoie, il est maintenant partagé entre Nantes et Paris. C'est un garçon agréable et sympatique, toujours partant pour l'aventure. Il apprend la vie grâce au scoutisme, avec a son actif pas moins de **100** (change...) camp d'été. Il quitte son fief de Sévrier après son baccalauréat pour poursuivre ses études de commerces à Lyon puis à Nantes (Audencia), il est maintenant en stage à Paris dans la fusion aquisition (fusac'). *Un diction ?* Vous avez tout à gagner. 
