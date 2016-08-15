@@ -14,16 +14,19 @@ A travers ce périple, nous souhaitons relever deux défis. Le premier est un ch
 
 ## L'itinéraire
 
-<center><B>Objectif: rallier la frontière Ouest du Népal en partant du Ghunsa (extrême Est).</B></center>
+<center><B>Objectif: rallier la frontière Ouest du Népal en partant du Ghunsa, extrême Est.</B></center>
+
 
 ![alt text](https://jbcdnr.github.io/media/img/Itinéraire Népal Final.jpg "Logo Title Text 1")
 
 
-Plus de 1000kms de marche à des altitudes variant jusqu’à 5550m seront nécessaires pour atteindre le frontière Ouest. Alternant entre la piste haute et la piste basse du Great Himalaya Trail (GHT), nous avons tracé notre itinéraire comme suit.
+Plus de 1000kms de marche à des altitudes variant jusqu’à 5550m seront nécessaires pour atteindre le frontière Ouest. Alternant entre la piste haute et la piste basse du <p><sup id="Great Himalaya Trail">*</sup></p> (GHT), nous avons tracé notre itinéraire comme suit.
 
-Le Népal est traversé par deux «routes» de trekking principales reliant les régions de treks les plus connues :
+<div id="notebasdepage">
+*: Le Népal est traversé par deux «routes» de trekking principales reliant les régions de treks les plus connues :
 -	La piste haute : située au Nord, elle s’étend sur une distance d’environ 1700 km et franchit des sites spectaculaires en haute montagne. Elle visite ainsi des villages parmi les plus isolés.
 -	La piste basse : aussi appelée «route culturelle» en raison des nombreux villages traversés, elle sillonne la vallée à une altitude moyenne de 2000m.
+</div>
 
 Après notre arrivée à Katmandou (1400m) par avion, nous rejoindrons Taplejung (1900m) en bus/jeep/autre située au Sud de Ghunsa (3595m). Nous effectuerons alors une boucle dans la région du Kanchenjunga pour atteindre Ghunsa puis revenir à Taplejung avant de repartir vers l’Ouest, direction la région de l’Everest.
 
