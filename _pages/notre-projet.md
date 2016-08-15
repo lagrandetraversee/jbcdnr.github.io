@@ -14,7 +14,7 @@ A travers ce périple, nous souhaitons relever deux défis. Le premier est un ch
 
 ## L'itinéraire
 
-<B>Objectif: rallier la frontière Ouest du Népal en partant du Ghunsa (3595m), village situé à l’extrême Est du pays.</B>
+<DIV ALIGN="CENTER"><B>Objectif: rallier la frontière Ouest du Népal en partant du Ghunsa (3595m), village situé à l’extrême Est du pays.</B></DIV>
 ![alt text](https://jbcdnr.github.io/media/img/Itinéraire Népal Final.jpg "Logo Title Text 1")
 
 
