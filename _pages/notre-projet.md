@@ -20,25 +20,25 @@ A travers ce périple, nous souhaitons relever deux défis. Le premier est un ch
 
 <br>Plus de 1000kms de marche à des altitudes variant jusqu’à 5550m seront nécessaires pour atteindre le frontière Ouest. Alternant entre la piste haute et la piste basse du Great Himalaya Trail(1) (GHT), nous avons tracé notre itinéraire comme suit.
 
-<div style="width: 280px;font-size:10px; margin:auto;">(1)Le Népal est traversé d'Est en Ouest par deux voies reliant les régions de trekking les plus connues :
-<br>- La piste haute : située au Nord, elle s’étend sur une distance d’environ 1700 km et franchit des sites spectaculaires en haute montagne. Elle visite ainsi des villages parmi les plus isolés.
-<br>- La piste basse : aussi appelée «route culturelle» en raison des nombreux villages traversés, elle sillonne la vallée à une altitude moyenne de 2000m.</div>
+<div style="width: 280px;font-size:10px; margin:auto;">(1)Le Népal est traversé d'Est en Ouest par deux voies reliant les régions de trekking les plus connues :<br/>
+- La piste haute : située au Nord, elle s’étend sur une distance d’environ 1700 km et franchit des sites spectaculaires en haute montagne. Elle visite ainsi des villages parmi les plus isolés.<br/>
+- La piste basse : aussi appelée «route culturelle» en raison des nombreux villages traversés, elle sillonne la vallée à une altitude moyenne de 2000m.</div>
 
 <br>Après notre arrivée à Katmandou (1400m) par avion, nous rejoindrons Taplejung (1900m) en bus/jeep/autre située au Sud de Ghunsa (3595m). Nous effectuerons alors une boucle dans la région du Kanchenjunga pour atteindre Ghunsa puis revenir à Taplejung avant de repartir vers l’Ouest, direction la région de l’Everest.
 
 Impossible de découvrir le Népal sans s’approcher du « Toit du Monde ». C'est pourquoi, lorsque nous arriverons dans la région de l’Everest, nous remonterons au Nord pour réaliser une seconde boucle qui promet un spectacle époustouflant:
-<br>-	Des cols à plus de 5000m d’altitude (le terme «La» signifie «col» en népali);
-<br>-	Le Kala Pattar (5545m): son nom se traduit par «Roche Noire» en népali et en hindi. Il est réputé pour la vue splendide qu’il offre sur l’Everest;
-<br>-	Les lacs de Gokyo: au nombre de 6, ils sont situés à plus de 4700m d’altitude.
-<br>Une fois la boucle bouclée, nous nous dirigerons vers Jiri afin de trouver un moyen de transport pour atteindre Katmandou. Nous espérons réaliser l’ensemble de cette première section (Ghunsa-Katmandou) en moins d’un mois.
+- Des cols à plus de 5000m d’altitude (le terme «La» signifie «col» en népali);</br>
+- Le Kala Pattar (5545m): son nom se traduit par «Roche Noire» en népali et en hindi. Il est réputé pour la vue splendide qu’il offre sur l’Everest;<br/>
+- Les lacs de Gokyo: au nombre de 6, ils sont situés à plus de 4700m d’altitude.<br/>
+Une fois la boucle bouclée, nous nous dirigerons vers Jiri afin de trouver un moyen de transport pour atteindre Katmandou. Nous espérons réaliser l’ensemble de cette première section (Ghunsa-Katmandou) en moins d’un mois.
 
 Après quelques jours de repos dans la capitale, nous reprendrons la route en bus/jeep/autre en direction du Dunche pour rejoindre la piste haute du GHT. Là, nous repartirons à pied pour traverser 3 belles régions (Manaslu, Annapurna, Mustang) et 2 passes d’altitude (Larky La, Thorong La).
 
 Nous arriverons alors dans la région du Dolpo, où nous nous orienterons vers le Sud pour rejoindre la piste basse du GHT. Nous poursuivrons ainsi jusqu’à Martadi (2000m), jalon important sur notre parcours: c'est en effet à ce moment que nous déciderons, en fonction du temps restant, si nous terminons le trek à pied ou si nous empruntons un moyen de transport pour rallier la frontière Ouest. A voir… et que l’aventure commence!
 
-Le Népal est traversé d'Est en Ouest par deux voies reliant les régions de trekking les plus connues :
-<br>- La piste haute : située au Nord, elle s’étend sur une distance d’environ 1700 km et franchit des sites spectaculaires en haute montagne. Elle visite ainsi des villages parmi les plus isolés.
-<br>- La piste basse : aussi appelée «route culturelle» en raison des nombreux villages traversés, elle sillonne la vallée à une altitude moyenne de 2000m.
+Le Népal est traversé d'Est en Ouest par deux voies reliant les régions de trekking les plus connues :<br/>
+- La piste haute : située au Nord, elle s’étend sur une distance d’environ 1700 km et franchit des sites spectaculaires en haute montagne. Elle visite ainsi des villages parmi les plus isolés.<br/>
+- La piste basse : aussi appelée «route culturelle» en raison des nombreux villages traversés, elle sillonne la vallée à une altitude moyenne de 2000m.
 
 
 ## Qui sommes nous ?
@@ -49,28 +49,27 @@ Quant à JB il est incroyablement fort et intelligent, n'est ce pas ?
 
 ## Notre matériel
 
-La randonnée itinérante pendant des périodes aussi longues demande beaucoup de préparation logistique. Nous sommes tous les deux habitués au randonnées de quelques jours mais pas en haute altitude. Nous avons donc dû nous renseigner sur le matériel conseillé. Nous mettons un point d'honneur à partir léger pour éviter de s'user inutilement, nous visons donc d'être en dessous des 12kg tout compris.
+La randonnée itinérante pendant des périodes aussi longues demande beaucoup de préparation logistique. Nous sommes tous les deux habitués au randonnées de quelques jours mais pas en haute altitude. Nous mettons un point d'honneur à partir léger pour éviter de s'user inutilement, nous visons donc d'être en dessous des 12kg tout compris.
 
 Voici une liste sommaire du matériel que nous emporterons:
 
-- tente 2 places
-- sac de couchage (1˚ confort)
-- sac de couchage polaire en plus
-- tapis de sol
-- réchaud à essence
-- popotte
-- couteau suisse / opinel
-- eau 2L par personne
-- boussolle
-- lampe frontale
-- altimètre
-- cartes des régions traversées
-- battons de marche
-- couverture de survie
-- chaussures de marche
-- chaussures de sport
-- veste
-- doudoune
-- polaire technique
-- T-shirt respirants
-- short et pantalon de randonnée
+- Tente 2 places
+- Sac de couchage (1˚ confort) + drap polaire
+- Tapis de sol
+- Réchaud à essence + briquet
+- Lampe frontale + piles
+- Montre altimètre & boussole
+- Battons de marche
+- Couverture de survie + sifflet + balise satellite
+- Chaussures de marche
+- Chaussures de sport
+- Système trois couches: veste tout temps, polaire technique, t-shirt respirant
+- Short et pantalon de randonnée
+- Doudoune
+- Bonnet, gants, lunettes de soleil
+- Eau 2L par personne
+- Popote + opinel
+- Trousse de toilette
+- Carnet + stylos
+- Appareil photo + Go pro
+- Cartes et permis des régions traversées
