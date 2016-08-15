@@ -34,9 +34,9 @@ Après quelques jours de repos dans la capitale, nous reprendrons la route en bu
 
 Nous arriverons alors dans la région du Dolpo, où nous nous orienterons vers le Sud pour rejoindre la piste basse. Nous poursuivrons ainsi jusqu’à Martadi (2000m), jalon important sur notre parcours: nous déciderons, en fonction du temps restant, si nous terminons le trek à pied ou si nous empruntons un moyen de transport pour rallier la frontière Ouest. A voir… et que l’aventure commence!
 
-<weight:3>* Le Népal est traversé par deux «routes» de trekking principales reliant les régions de treks les plus connues :
+<FONT size="10pt">Le Népal est traversé par deux «routes» de trekking principales reliant les régions de treks les plus connues :
 -	La piste haute : située au Nord, elle s’étend sur une distance d’environ 1700 km et franchit des sites spectaculaires en haute montagne. Elle visite ainsi des villages parmi les plus isolés.
--	La piste basse : aussi appelée «route culturelle» en raison des nombreux villages traversés, elle sillonne la vallée à une altitude moyenne de 2000m.<weight/>
+-	La piste basse : aussi appelée «route culturelle» en raison des nombreux villages traversés, elle sillonne la vallée à une altitude moyenne de 2000m.</FONT>
 
 ## Qui sommes nous ?
 
