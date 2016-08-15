@@ -42,7 +42,7 @@ Le Népal est traversé d'Est en Ouest par deux voies reliant les régions de tr
 
 ## Qui sommes nous ?
 
-<div style="width: 100px; word-wrap: break-word; margin:auto;">*Pierre* est un homme des montagnes, originaire d'Annecy en Haute-Savoie, il est maintenant partagé entre Nantes et Paris. C'est un garçon agréable et sympatique, toujours partant pour l'aventure. Il apprend la vie grâce au scoutisme, avec a son actif pas moins de **100** (change...) camp d'été. Il quitte son fief de Sévrier après son baccalauréat pour poursuivre ses études de commerces à Lyon puis à Nantes (Audencia), il est maintenant en stage à Paris dans la fusion aquisition (fusac'). *Un diction ?* Vous avez tout à gagner.</div>
+<div style="width: 300px;font-size:4px; word-wrap: break-word; margin:auto;">*Pierre* est un homme des montagnes, originaire d'Annecy en Haute-Savoie, il est maintenant partagé entre Nantes et Paris. C'est un garçon agréable et sympatique, toujours partant pour l'aventure. Il apprend la vie grâce au scoutisme, avec a son actif pas moins de **100** (change...) camp d'été. Il quitte son fief de Sévrier après son baccalauréat pour poursuivre ses études de commerces à Lyon puis à Nantes (Audencia), il est maintenant en stage à Paris dans la fusion aquisition (fusac'). *Un diction ?* Vous avez tout à gagner.</div>
 
 Quant à JB il est incroyablement fort et intelligent, n'est ce pas ?
 
