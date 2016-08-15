@@ -18,7 +18,7 @@ A travers ce périple, nous souhaitons relever deux défis. Le premier est un ch
 <br>
 ![alt text](https://jbcdnr.github.io/media/img/Itinéraire Népal Final.jpg "Logo Title Text 1")
 
-<br>Plus de 1000kms de marche à des altitudes variant jusqu’à 5550m seront nécessaires pour atteindre le frontière Ouest. Alternant entre la piste haute et la piste basse du Great Himalaya Trail[1] (GHT), nous avons tracé notre itinéraire comme suit.
+<br>Plus de 1000kms de marche à des altitudes variant jusqu’à 5550m seront nécessaires pour atteindre le frontière Ouest. Alternant entre la piste haute et la piste basse du <span class="spip_note_ref">&nbsp;[<a href='#nb1' class='spip_note' rel='footnote' title='Great Himalaya Trail' id='nh2'>1</a>]</span>. (GHT), nous avons tracé notre itinéraire comme suit.
 
 Après notre arrivée à Katmandou (1400m) par avion, nous rejoindrons Taplejung (1900m) en bus/jeep/autre située au Sud de Ghunsa (3595m). Nous effectuerons alors une boucle dans la région du Kanchenjunga pour atteindre Ghunsa puis revenir à Taplejung avant de repartir vers l’Ouest, direction la région de l’Everest.
 
@@ -36,7 +36,7 @@ Le Népal est traversé d'Est en Ouest par deux voies reliant les régions de tr
 <br>- La piste haute : située au Nord, elle s’étend sur une distance d’environ 1700 km et franchit des sites spectaculaires en haute montagne. Elle visite ainsi des villages parmi les plus isolés.
 <br>- La piste basse : aussi appelée «route culturelle» en raison des nombreux villages traversés, elle sillonne la vallée à une altitude moyenne de 2000m.
 
-<p><span class="spip_note_ref">[<a href='#nh2' class='spip_note' title='Notes 2' rev='footnote'>*</a>]&nbsp;</span>Le Népal est traversé d'Est en Ouest par deux voies reliant les régions de trekking les plus connues :
+<p><span class="spip_note_ref">[<a href='#nh2' class='spip_note' title='Notes 2' rev='footnote'>1</a>]&nbsp;</span>Le Népal est traversé d'Est en Ouest par deux voies reliant les régions de trekking les plus connues :
 <br>- La piste haute : située au Nord, elle s’étend sur une distance d’environ 1700 km et franchit des sites spectaculaires en haute montagne. Elle visite ainsi des villages parmi les plus isolés.
 <br>- La piste basse : aussi appelée «route culturelle» en raison des nombreux villages traversés, elle sillonne la vallée à une altitude moyenne de 2000m.</p>
 
