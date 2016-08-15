@@ -36,9 +36,11 @@ Le Népal est traversé d'Est en Ouest par deux voies reliant les régions de tr
 <br>- La piste haute : située au Nord, elle s’étend sur une distance d’environ 1700 km et franchit des sites spectaculaires en haute montagne. Elle visite ainsi des villages parmi les plus isolés.
 <br>- La piste basse : aussi appelée «route culturelle» en raison des nombreux villages traversés, elle sillonne la vallée à une altitude moyenne de 2000m.
 
-<span class="spip_note_ref">&nbsp;[<a href='#nb2' class='spip_note' rel='footnote' title='Citation apocryphe attribuée à Voltaire.' id='nh2'>2</a>]</span>.
+<span class="spip_note_ref">&nbsp;[<a href='#nb*' class='spip_note' rel='footnote' title='Citation apocryphe attribuée à Voltaire.' id='nh2'>*</a>]</span>.
 
-<p><span class="spip_note_ref">[<a href='#nh2' class='spip_note' title='Notes 2' rev='footnote'>2</a>]&nbsp;</span>Citation apocryphe attribuée à Voltaire.</p>
+<p><span class="spip_note_ref">[<a href='#nh2' class='spip_note' title='Notes 2' rev='footnote'>*</a>]&nbsp;</span>Le Népal est traversé d'Est en Ouest par deux voies reliant les régions de trekking les plus connues :
+<br>- La piste haute : située au Nord, elle s’étend sur une distance d’environ 1700 km et franchit des sites spectaculaires en haute montagne. Elle visite ainsi des villages parmi les plus isolés.
+<br>- La piste basse : aussi appelée «route culturelle» en raison des nombreux villages traversés, elle sillonne la vallée à une altitude moyenne de 2000m.</p>
 
 ## Qui sommes nous ?
 
