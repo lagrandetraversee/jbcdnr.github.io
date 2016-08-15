@@ -15,17 +15,17 @@ A travers ce périple, nous souhaitons relever deux défis. Le premier est un ch
 ## L'itinéraire
 
 <center><B>Objectif: rallier la frontière Ouest du Népal en partant du Ghunsa, extrême Est.</B></center>
-<br></br>
+<br> </br>
 ![alt text](https://jbcdnr.github.io/media/img/Itinéraire Népal Final.jpg "Logo Title Text 1")
-<br></br>
+<br> </br>
 Plus de 1000kms de marche à des altitudes variant jusqu’à 5550m seront nécessaires pour atteindre le frontière Ouest. Alternant entre la piste haute et la piste basse du Great Himalaya Trail* (GHT), nous avons tracé notre itinéraire comme suit.
 
 Après notre arrivée à Katmandou (1400m) par avion, nous rejoindrons Taplejung (1900m) en bus/jeep/autre située au Sud de Ghunsa (3595m). Nous effectuerons alors une boucle dans la région du Kanchenjunga pour atteindre Ghunsa puis revenir à Taplejung avant de repartir vers l’Ouest, direction la région de l’Everest.
 
-Impossible d’aller au Népal sans s’approcher du « Toit du Monde ». Arrivés dans la région de l’Everest, nous remonterons donc au Nord pour réaliser une seconde boucle qui promet un spectacle époustouflant:
--	Des cols à plus de 5000m d’altitude (le terme «La» signifie «col» en népali);
--	Le Kala Pattar (5545m): son nom se traduit par «Roche Noire» en népali et en hindi. Il est réputé pour la vue splendide qu’il offre sur l’Everest;
--	Les lacs de Gokyo: au nombre de 6, ils sont situés à plus de 4700m d’altitude.
+<br>Impossible d’aller au Népal sans s’approcher du « Toit du Monde ». Arrivés dans la région de l’Everest, nous remonterons donc au Nord pour réaliser une seconde boucle qui promet un spectacle époustouflant:
+<br>-	Des cols à plus de 5000m d’altitude (le terme «La» signifie «col» en népali);</br>
+<br>-	Le Kala Pattar (5545m): son nom se traduit par «Roche Noire» en népali et en hindi. Il est réputé pour la vue splendide qu’il offre sur l’Everest;</br>
+<br>-	Les lacs de Gokyo: au nombre de 6, ils sont situés à plus de 4700m d’altitude.</br>
 Une fois la boucle bouclée, nous nous dirigerons vers Jiri afin de trouver un moyen de transport pour atteindre Katmandou. Nous espérons réaliser l’ensemble de cette première section de notre trek (Ghunsa-Katmandou) en moins d’un mois.
 
 Après quelques jours de repos dans la capitale, nous reprendrons la route en bus/jeep/autre en direction du Dunche pour rejoindre la piste haute du GHT. Là, nous repartirons à pied pour traverser 3 belles régions (Manaslu, Annapurna, Mustang) et 2 passes d’altitude (Larky La, Thorong La).
@@ -33,7 +33,7 @@ Après quelques jours de repos dans la capitale, nous reprendrons la route en bu
 Nous arriverons alors dans la région du Dolpo, où nous nous orienterons vers le Sud pour rejoindre la piste basse. Nous poursuivrons ainsi jusqu’à Martadi (2000m), jalon important sur notre parcours: nous déciderons, en fonction du temps restant, si nous terminons le trek à pied ou si nous empruntons un moyen de transport pour rallier la frontière Ouest. A voir… et que l’aventure commence!
 
 <br>Le Népal est traversé par deux «routes» de trekking principales reliant les régions de treks les plus connues :<br/>
-- La piste haute : située au Nord, elle s’étend sur une distance d’environ 1700 km et franchit des sites spectaculaires en haute montagne. Elle visite ainsi des villages parmi les plus isolés.
+<br>- La piste haute : située au Nord, elle s’étend sur une distance d’environ 1700 km et franchit des sites spectaculaires en haute montagne. Elle visite ainsi des villages parmi les plus isolés.<br/>
 - La piste basse : aussi appelée «route culturelle» en raison des nombreux villages traversés, elle sillonne la vallée à une altitude moyenne de 2000m.
 
 ## Qui sommes nous ?
