@@ -14,9 +14,9 @@ A travers ce périple, nous souhaitons relever deux défis. Le premier est un ch
 
 ## L'itinéraire
 
-![alt text](https://jbcdnr.github.io/media/img/Itinéraire Népal Final.jpg "Logo Title Text 1")
+<B>Objectif: rallier la frontière Ouest du Népal en partant du Ghunsa (3595m), village situé à l’extrême Est du pays.</B>
+![alt text](https://jbcdnr.github.io/media/img/Itinéraire Népal Final.jpg"Itinéraire trek 1")
 
-Objectif: rallier la frontière Ouest du Népal en partant du Ghunsa (3595m), village situé à l’extrême Est du pays.
 
 Plus de 1000kms de marche à des altitudes variant jusqu’à 5550m seront nécessaires pour atteindre le frontière Ouest. Alternant entre la piste haute et la piste basse du Great Himalaya Trail (GHT), nous avons tracé notre itinéraire comme suit.
 
