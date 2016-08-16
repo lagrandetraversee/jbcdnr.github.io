@@ -39,7 +39,7 @@ Nous arriverons alors dans la région du Dolpo, où nous nous orienterons vers l
 ## Qui sommes nous ?
 
 <p class="flotte:left">
- <img src="https://jbcdnr.github.io/media/img/Itinéraire Népal Final.pgj" alt="" />
+ <![alt text](https://jbcdnr.github.io/media/img/Itinéraire Népal Final.jpg "Logo Title Text 1")" alt="" />
 </p>
 <p style="line-height:65px;">
  Toutes les nouveautés, rien que des nouveautés.
