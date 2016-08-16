@@ -44,7 +44,7 @@ Quant à JB il est incroyablement fort et intelligent, n'est ce pas ?
 
 ## Notre matériel
 
-La randonnée itinérante pendant des périodes aussi longues demande beaucoup de préparation logistique. Nous sommes tous les deux habitués au randonnées de quelques jours mais pas en haute altitude. Nous mettons un point d'honneur à partir léger pour éviter de s'user inutilement, nous visons donc d'être en dessous des 12kg tout compris.
+Ennemi n°1: le poids. Nous mettons un point d'honneur à partir léger car nous savons d'expérience  - et c'est sans doute la phrase que Pierre répète le plus à Jean-Baptiste durant la préparation de ce projet- que "qui veut aller loin ménage sa monture". Nous visons donc d'être en dessous des 12kg tout compris.
 
 Voici une liste sommaire du matériel que nous emporterons:
 
