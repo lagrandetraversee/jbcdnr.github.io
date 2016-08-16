@@ -16,7 +16,7 @@ A travers ce périple, nous souhaitons relever deux défis. Le premier est un ch
 
 <center><B>Objectif: rallier la frontière Ouest du Népal en partant du Ghunsa, extrême Est.</B></center>
 <br>
-![alt text](https://jbcdnr.github.io/media/img/Itinéraire Népal Final.jpg "Logo Title Text 1")
+![Itinéraire](/media/img/Itinéraire Népal Final.jpg)
 
 <br>Plus de 1000kms de marche à des altitudes variant jusqu’à 5550m seront nécessaires pour atteindre le frontière Ouest. Alternant entre la piste haute et la piste basse du Great Himalaya Trail(1) (GHT), nous avons tracé notre itinéraire comme suit.
 
@@ -37,13 +37,6 @@ Après quelques jours de repos dans la capitale, nous reprendrons la route en bu
 Nous arriverons alors dans la région du Dolpo, où nous nous orienterons vers le Sud pour rejoindre la piste basse du GHT. Nous poursuivrons ainsi jusqu’à Martadi (2000m), jalon important sur notre parcours: c'est en effet à ce moment que nous déciderons, en fonction du temps restant, si nous terminons le trek à pied ou si nous empruntons un moyen de transport pour rallier la frontière Ouest. A voir… et que l’aventure commence!
 
 ## Qui sommes nous ?
-
-<p class="flotte:left">
- <![alt text](https://jbcdnr.github.io/media/img/Itinéraire Népal Final.jpg "Logo Title Text 1")" alt="" />
-</p>
-<p style="line-height:65px;">
- Toutes les nouveautés, rien que des nouveautés.
-</p>
 
 Etudiant de 22 ans à Audencia (Nantes) Pierre a toujours eu les deux pieds sur terre mais la tête souvent dans les étoiles. Loin d'être un défaut de caractère, c'est justement son tempérament rêveur qui l'entraîne à la découverte des cimes népalaises.<br/>
 
