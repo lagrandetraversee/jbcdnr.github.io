@@ -38,13 +38,14 @@ Nous arriverons alors dans la région du Dolpo, où nous nous orienterons vers l
 
 ## Qui sommes nous ?
 
-*Pierre* est un homme des montagnes, originaire d'Annecy en Haute-Savoie, il est maintenant partagé entre Nantes et Paris. C'est un garçon agréable et sympatique, toujours partant pour l'aventure. Il apprend la vie grâce au scoutisme, avec a son actif pas moins de **100** (change...) camp d'été. Il quitte son fief de Sévrier après son baccalauréat pour poursuivre ses études de commerces à Lyon puis à Nantes (Audencia), il est maintenant en stage à Paris dans la fusion aquisition (fusac'). *Un diction ?* Vous avez tout à gagner.
+Etudiant de 22 ans à Audencia (Nantes) Pierre a toujours été un garçon qu'on qualifiait de distrait; les deux pieds sur terre mais la tête souvent dans les étoiles. Loin d'être un défaut de caractère, c'est justement ce tempérament rêveur qui lui permet aujourd'hui de partir à la découverte du Népal.
+En quête perpétuelle de sens, c'est tout jeune garçon que Pierre est tombé dans la marmite de l'aventure... pour n'en plus jamais sortir. Fortement inspiré par le scoutisme dont il a fait parti pendant une douzaine d'années, il prend un plaisir particulier à vivre au contact de la nature. S'il est épris de liberté et d'indépendance, il n'hésite néanmoins pas à partager ses rêves d'exploration avec qui veut bien le suivre, car "seul on va plus vite, mais ensemble on va plus loin". En témoigne son trek dans les steppes mongoliennes où il réussit à embarquer 3 autres amis. Outre le scoutisme, c'est aussi à sa maîtresse de CE2 qu'il doit son rêve le plus fou: partir sur les traces de ce musher que lui et sa classe avait suivi virtuellement pendant toute une année, à la découverte du Grand Nord. Si le Grand Nord et les chiens de traîneaux devront attendre, l'idée de partager son expérience népalaise avec une classe de primaire est en revanche  bien présente. Car comme disait Saint-Thomas d'Aquin, "il est plus beau de transmettre aux autres ce qu'on a contemplé que de contempler seulement". alors il n'y a plus qu'à!
 
 Quant à JB il est incroyablement fort et intelligent, n'est ce pas ?
 
 ## Notre matériel
 
-Ennemi n°1: le poids. Nous mettons un point d'honneur à partir léger car nous savons d'expérience  - et c'est sans doute la phrase que Pierre répète le plus à Jean-Baptiste durant la préparation de ce projet- que "qui veut aller loin ménage sa monture". Nous visons donc d'être en dessous des 12kg tout compris.
+Ennemi n°1: le poids. Nous mettons un point d'honneur à partir léger car nous savons d'expérience que le dicton "qui veut aller loin ménage sa monture" est vrai. Nous visons donc d'être en dessous des 12kg tout compris.
 
 Voici une liste sommaire du matériel que nous emporterons:
 
