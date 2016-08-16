@@ -38,9 +38,7 @@ Nous arriverons alors dans la région du Dolpo, où nous nous orienterons vers l
 
 ## Qui sommes nous ?
 
-<div class="banniere">
-<img src="![drapeau](/media/img/flag.png#left)" style="width: 50px;" />
-</div>
+<div style="width: 50px;">![drapeau](/media/img/flag.png#left)</div>
 
 Etudiant de 22 ans à Audencia (Nantes) Pierre a toujours eu les deux pieds sur terre mais la tête souvent dans les étoiles. Loin d'être un défaut de caractère, c'est justement son tempérament rêveur qui l'entraîne à la découverte des cimes népalaises.<br/>
 
