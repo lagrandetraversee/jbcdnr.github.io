@@ -39,7 +39,9 @@ Nous arriverons alors dans la région du Dolpo, où nous nous orienterons vers l
 ## Qui sommes nous ?
 
 Etudiant de 22 ans à Audencia (Nantes) Pierre a toujours eu les deux pieds sur terre mais la tête souvent dans les étoiles. Loin d'être un défaut de caractère, c'est justement son tempérament rêveur qui l'entraîne à la découverte des cimes népalaises. Pour ce grand amateur des repas bières/charcut'/fromages, le challenge est de taille!<br/>
+
 Baroudeur dans l'âme, il n'en reste pas moins un homme sensible qui ne part jamais sans avoir affuté son coupe-ongle. Ses longues années de scoutisme en Haute-Savoie lui ont donné le goût de la nature et il n'hésite pas à partager ses rêves d'exploration avec qui veut bien le suivre, car "seul on va plus vite, mais ensemble on va plus loin". En témoigne son trek dans les steppes mongoles où il réussit à embarquer 3 autres amis.<br/>
+
 Outre le scoutisme, c'est aussi à sa maîtresse de CE2 qu'il doit son rêve le plus fou: partir dans le Grand Nord sur les traces de ce musher que lui et sa classe avait suivi virtuellement. Si les régions polaires devront attendre, l'idée de partager son expérience népalaise avec une classe de primaire est en revanche  bien présente. Car comme disait Saint-Thomas d'Aquin, "il est plus beau de transmettre aux autres ce qu'on a contemplé que de contempler seulement".
 
 Quant à JB il est incroyablement fort et intelligent, n'est ce pas ?
