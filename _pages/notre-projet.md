@@ -44,12 +44,7 @@ Grand amateur des repas bières/charcut'/fromages, Pierre est aussi un baroudeur
 
 Outre le scoutisme, c'est aussi à son enseignante de CE2 qu'il doit son rêve le plus fou: partir dans le Grand Nord sur les traces de ce musher que lui et sa classe avaient suivi virtuellement. Si les régions polaires devront attendre, l'idée de partager son expérience népalaise avec une classe de primaire est en revanche  bien présente. Car, dixit Saint-Thomas d'Aquin, "il est plus beau de transmettre aux autres ce qu'on a contemplé que de contempler seulement".</div>
 
-<p class="flotte">
- <img src="images/new.png" alt="Nouveau !" />
-</p>
-<p style="line-height:65px;">
- Toutes les nouveautés, rien que des nouveautés.
-</p>
+![alt text](https://jbcdnr.github.io/media/img/Itinéraire Népal Final.jpg "Logo Title Text  1" :ALIGN=LEFT
 
 Quant à JB il est incroyablement fort et intelligent, n'est ce pas ?
 
