@@ -3,7 +3,6 @@ layout:    page
 permalink: "/notre-équipe/"
 weight:    5
 menutitle: Notre équipe
-title:     75 jours pour traverser le Népal d’Est en Ouest
 excerpt:   Qui sommes-nous?
 ---
 
