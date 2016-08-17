@@ -36,17 +36,6 @@ Après quelques jours de repos dans la capitale, nous reprendrons la route en bu
 
 Nous arriverons alors dans la région du Dolpo, où nous nous orienterons vers le Sud pour rejoindre la piste basse du GHT. Nous poursuivrons ainsi jusqu’à Martadi (2000m), jalon important sur notre parcours: c'est en effet à ce moment que nous déciderons, en fonction du temps restant, si nous terminons le trek à pied ou si nous empruntons un moyen de transport pour rallier la frontière Ouest. A voir… et que l’aventure commence!
 
-## Qui sommes nous ?
-
-<p><img src="/media/img/flag.png" style="width: 200px;float:right;"> 
-Etudiant de 22 ans à Audencia (Nantes) Pierre a toujours eu les deux pieds sur terre mais la tête souvent dans les étoiles. Loin d'être un défaut de caractère, c'est justement son tempérament rêveur qui l'entraîne à la découverte des cimes népalaises.<br/>
-<br/>
-Grand amateur des repas bières/charcut'/fromages, Pierre est aussi un baroudeur dans l'âme. Ses longues années de scoutisme en Haute-Savoie lui ont donné le goût de la nature et il n'hésite pas à partager ses rêves d'exploration avec qui veut bien le suivre. En témoigne son trek dans les steppes mongoles où il réussit à embarquer 3 autres amis.<br/>
-<br/>
-Outre le scoutisme, c'est aussi à son enseignante de CE2 qu'il doit son rêve le plus fou: partir dans le Grand Nord sur les traces de ce musher que lui et sa classe avaient suivi virtuellement. Si les régions polaires devront attendre, l'idée de partager son expérience népalaise avec une classe de primaire est en revanche  bien présente. Car, dixit Saint-Thomas d'Aquin, "il est plus beau de transmettre aux autres ce qu'on a contemplé que de contempler seulement".</p>
-
-Quant à JB il est incroyablement fort et intelligent, n'est ce pas ?
-
 ## Notre matériel
 
 Ennemi n°1: le poids. Nous mettons un point d'honneur à partir léger car nous savons d'expérience que le dicton "qui veut aller loin ménage sa monture" est véridique. Nous visons donc d'être en dessous des 12kg tout compris.
