@@ -1,4 +1,5 @@
 ---
+layout: default
 page.title: Suivez-nous
 ---
 
@@ -19,7 +20,7 @@ page.title: Suivez-nous
         {% unless post.draft %}
 
         {% if post.menutitle %}
-        {% assign title = post.menutitle %}
+        {% assign title = home}
         {% else %}
         {% assign title = post.title %}
         {% endif %}
