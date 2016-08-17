@@ -20,9 +20,9 @@ page.title: Suivez-nous
         {% unless post.draft %}
 
         {% if post.menutitle %}
-        {% assign title = home}
+        {% assign title = post.menutitle %}
         {% else %}
-        {% assign title = post.title %}
+        {% assign title = home}
         {% endif %}
 
         <li>
