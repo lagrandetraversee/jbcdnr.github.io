@@ -38,8 +38,9 @@ Nous arriverons alors dans la région du Dolpo, où nous nous orienterons vers l
 
 ## Qui sommes nous ?
 
-img.top {
-    vertical-align: middle;
+span#mySpan {
+    background-color:yellow;
+    vertical-align:baseline;
 }
 
 <p class="float:left"><img src="/media/img/flag.png" alt="" width="270"/></p>
