@@ -39,11 +39,13 @@ Altitude la plus faible|70m (Kachan Kalan)
 Altitude la plus élevée|8848m (Everest)
 
 La géographie du Népal a souvent été comparée au relief d'un escalier: 5 bandes s'étendant d'Est en Ouest, correspondant à 5 paliers, forment les 5 grandes régions naturelles du pays:
-- <I>Le Téraï</I>, ou région basse, est une terre d'alluvions formant le piémont de la grande plaine du Gange. Les terres cultivables en bordure des affluents du Gange sont régulièrement inondées.
-- Les Siwalik : cette formation montagneuse se compose de crêtes séparées par de larges vallées appelées doon, dans lesquelles pénètre la forêt vierge. C’est là que les plaques indiennes et tibétaines se rencontrent. Cette région est peu habitée.
-- Le Mahabharata Lekh, en revanche, est une véritable chaîne de montagnes.
-- Le plateau népalais, le cœur du pays, constitue le plus important niveau. Des fleuves transversaux viennent partager ce plateau en neuf bassins naturels. C'est la partie la plus riche du pays, et celle où se trouvent les plus grandes villes (Kathmandu, Patan, Bhaktapur et Pokhara). 
-- La chaîne himalayenne : sur les 14 sommets de la terre dépassant les 8 000 m, 9 sont situés au Népal ou sur ses confins. On trouve des forêts et des cultures à 4 000 m, des pâturages à 5 000 m, et on a même pu voir des plantes à fleurs à plus de 6 000 m !<br/>
+- <I>Le Téraï</I>: "terre humide" prolongeant la grande plaine du gange (Inde)
+- <I>Les Siwalik</I> : montagnes séparées par de larges vallées appelées doon, dans lesquelles pénètre la forêt vierge. C’est là que les plaques indiennes et tibétaines se rencontrent. Cette région est peu habitée.
+- <I>Le Mahabharata Lekh</I>: chaîne de montagnes.
+- <I>Le plateau népalais</I>: cœur du pays, c'est la partie la plus riche du pays et celle où se trouvent les plus grandes villes (Kathmandu, Patan, Bhaktapur et Pokhara). 
+- <I>La chaîne himalayenne</I> : située la plus au Nord, cette région regroupe 9 des 14 sommets dépassant les 8 000 m au monde.
+
+Last but not least, comme l’ont malheureusement démontré les séismes de l’année 2015 qui ont fait plus de 8000 morts, le Népal se situe dans une zone à risque sismique très élevé. Le pays se trouve sur la faille himalayenne, au point de friction entre les plaques indienne et eurasienne.<br/>
 
 ## La Politique
 
