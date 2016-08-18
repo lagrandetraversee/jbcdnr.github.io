@@ -30,7 +30,7 @@ Voisins directs|Inde et Chine
 
 ## <br>La Géographie
 
-Petit pays enclavé entre deux géants, la Chine au Nord (Tibet) et l’Inde au Sud, à l'Est et à l'Ouest, le Népal est un des pays dont le relief est le plus accidenté au monde. Quelques chiffres pour mieux comprendre:
+Petit pays enclavé entre deux géants, la Chine au Nord (Tibet) et l’Inde au Sud, à l'Est et à l'Ouest, le Népal est un des pays dont le relief est le plus accidenté au monde.
 
 ---|---
 Distance Ouest-Est|885kms
@@ -40,17 +40,17 @@ Altitude la plus élevée|8848m (Everest)
 
 La géographie du Népal a souvent été comparée au relief d'un escalier: 5 bandes s'étendant d'Est en Ouest, correspondant à 5 paliers, forment les 5 grandes régions naturelles du pays:
 
-+ <I>Le Téraï</I>: "terre humide" prolongeant la grande plaine du gange (Inde)
-+ <I>Les Siwalik</I> : montagnes séparées par de larges vallées appelées doon, dans lesquelles pénètre la forêt vierge. C’est là que les plaques indiennes et tibétaines se rencontrent. Cette région est peu habitée.
++ <I>Le Téraï</I>: "terre humide" prolongeant la grande plaine du Gange (Inde)
++ <I>Les Siwalik</I> : montagnes séparées par de larges vallées appelées <I>doon</I>, dans lesquelles pénètre la forêt vierge. C’est là que les plaques indiennes et tibétaines se rencontrent. Cette région est peu habitée.
 + <I>Le Mahabharata Lekh</I>: chaîne de montagnes.
 + <I>Le plateau népalais</I>: cœur du pays, c'est la partie la plus riche du pays et celle où se trouvent les plus grandes villes (Kathmandu, Patan, Bhaktapur et Pokhara). 
 + <I>La chaîne himalayenne</I> : située la plus au Nord, cette région regroupe 9 des 14 sommets dépassant les 8 000 m au monde.
 
-Last but not least, comme l’ont malheureusement démontré les séismes de l’année 2015 qui ont fait plus de 8000 morts, le Népal se situe dans une zone à risque sismique très élevé. Le pays se trouve sur la faille himalayenne, au point de friction entre les plaques indienne et eurasienne.<br/>
+Enfin, comme l’ont malheureusement démontré les séismes de l’année 2015 qui ont fait plus de 8000 morts, le Népal se situe dans une zone à risque sismique très élevé. Le pays se trouve sur la faille himalayenne, au point de friction entre les plaques indienne et eurasienne.<br/><br/>
 
 ## La Politique
 
-Le royaume du Népal est devenue en 2008 une république démocratique. Politiquement, le pays est aujourd'hui constitué de 5 régions: Extrême-ouest, Moyen-ouest, Ouest, Centre, Est. Il est dirigé par un président, un vice-président et un premier ministre (qui concentre le pouvoir executif). Il y a deux formations politiques importantes: les maoïstes (communistes) et le Congrès népalais (plus libéral). La stabilité politique n'est que très récente et reste fragile. En effet, les maoïstes sont souvent qualifiés de jusque boutistes et ont le soutien d'une large partie de la population pour mettre en place des bloquage et empêcher un gouvernement de consensus. Il y a aussi de fortes poussées régionalistes, notamment de la part des régions du Sud qui veulent faire céssession. Cela reflète des différences de mentalité entre les peuples du Nord (proche des montagnes) et du Sud (plus influencés par l'Inde voisine).<br/>
+Le royaume du Népal est devenue en 2008 une république démocratique. Politiquement, le pays est aujourd'hui constitué de 5 régions: Extrême-ouest, Moyen-ouest, Ouest, Centre, Est. Il est dirigé par un président, un vice-président et un premier ministre (qui concentre le pouvoir executif). Il y a deux formations politiques importantes: les maoïstes (communistes) et le Congrès népalais (plus libéral). La stabilité politique n'est que très récente et reste fragile. En effet, les maoïstes sont souvent qualifiés de jusqu'au-boutistes et ont le soutien d'une large partie de la population pour mettre en place des bloquages et empêcher un gouvernement de consensus. Il y a aussi de fortes poussées régionalistes, notamment de la part des régions du Sud qui veulent faire céssession. Cela reflète les différences de mentalité entre les peuples du Nord (proche des montagnes) et du Sud (plus influencés par l'Inde voisine).<br/><br/>
 
 
 ## La religion
