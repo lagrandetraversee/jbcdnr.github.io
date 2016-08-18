@@ -13,7 +13,6 @@ culturelles et naturelles. Petit aperçu de cette lointaine contrée...</p></div
 
 
 ## Informations générales
-<br/>
 
 ---|---
 Nom officiel|République démocratique fédérale du Népal
@@ -21,7 +20,7 @@ Capitale|Kathmandu
 Langues|népali (officielle), maithili, bhojpuri (dialectes hindis), newari...
 Monnaie|Roupies népalaise (1€ = 120NPR)
 Population|30 millions d'habitants (estimation 2013)
-|Superficie|150'000 km<sup>2</sup> (1/4 de la France)
+Superficie|150'000 km<sup>2</sup> (1/4 de la France)
 Voisins directs|Inde et Chine
 
 <br/>
@@ -35,12 +34,11 @@ Voisins directs|Inde et Chine
 
 <p>Petit pays enclavé entre deux géants, la Chine au Nord (Tibet) et l’Inde au Sud, à l'Est et à l'Ouest, le Népal est un des pays dont le relief est le plus accidenté au monde. Quelques chiffres pour mieux comprendre:
 
---- | ---
-Distance Ouest-Est | 885kms
-Distance Nord-Sud  | 145 à 241 kms
-Altitude la plus faible | 70m (Kachan Kalan)
-Altitude la plus élevée  | 8848m (Everest)
---- | ---
+---|---
+Distance Ouest-Est|885kms
+Distance Nord-Sud|145 à 241 kms
+Altitude la plus faible|70m (Kachan Kalan)
+Altitude la plus élevée|8848m (Everest)
 
 La géographie du Népal a souvent été comparée au relief d'un escalier: 5 bandes s'étendant d'Est en Ouest, correspondant à 5 paliers, forment les 5 grandes régions naturelles du pays:
 - <I>Le Téraï</I>, ou région basse, est une terre d'alluvions formant le piémont de la grande plaine du Gange. Les terres cultivables en bordure des affluents du Gange sont régulièrement inondées.
