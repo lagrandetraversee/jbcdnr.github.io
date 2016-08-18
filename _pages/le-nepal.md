@@ -39,6 +39,7 @@ Altitude la plus faible|70m (Kachan Kalan)
 Altitude la plus élevée|8848m (Everest)
 
 La géographie du Népal a souvent été comparée au relief d'un escalier: 5 bandes s'étendant d'Est en Ouest, correspondant à 5 paliers, forment les 5 grandes régions naturelles du pays:
+
 + <I>Le Téraï</I>: "terre humide" prolongeant la grande plaine du gange (Inde)
 + <I>Les Siwalik</I> : montagnes séparées par de larges vallées appelées doon, dans lesquelles pénètre la forêt vierge. C’est là que les plaques indiennes et tibétaines se rencontrent. Cette région est peu habitée.
 + <I>Le Mahabharata Lekh</I>: chaîne de montagnes.
