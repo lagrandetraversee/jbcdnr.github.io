@@ -13,7 +13,8 @@ culturelles et naturelles. Petit aperçu de cette lointaine contrée...</p></div
 
 
 ## Informations générales
-<br/>
+
+
 ---|---
 Nom officiel|République démocratique fédérale du Népal
 Capitale|Kathmandu
