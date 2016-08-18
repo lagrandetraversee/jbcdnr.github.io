@@ -22,10 +22,11 @@ Monnaie | Roupies népalaise (1€ = 120NPR)
 Population | 30 millions d'habitants (estimation 2013)
 Superficie | 150'000 km<sup>2</sup> (1/4 de la France)
 Voisins directs | Inde et Chine
-
+<br/>
 <p><img src="/media/img/flag.png" style="width: 150px;float:left;">
 
-<I><br><br>Fun fact: le drapeau népalais n'est pas rectangulaire, il ressemble aux oriflammes du Moyen-Age !                                                                                                                                                                                                                                                                         </I></p>
+<I><br><br>Fun fact: le drapeau népalais n'est pas rectangulaire, il ressemble aux oriflammes du Moyen-Age !                                                                                                                                                    
+</I></p><br/>
 
 
 ## <br><br>La Géographie
@@ -35,7 +36,8 @@ Petit pays enclavé entre deux géants, la Chine au nord (Tibet) et l’Inde au 
 
 ## La Politique
 
-Géographiquement le Népal est coincé entre deux puissance mondiale, la Chine et l'Inde. L'Inde est assez influante politiquement sur le Népal encore aujourd'hui. Politiquement, le Népal est aujourd'hui une République fédérale constituée de 5 régions (Extrême-ouest, Moyen-ouest, Ouest, Centre, Est). Il est dirigé par un président, un vice-président et un premier ministre (qui concentre le pouvoir executif). Il y a deux formations politiques importantes: les maoïstes (communistes) et le Congrès népalais (plus libéral). La stabilité politique n'est que très récente et reste fragile. En effet, les maoïstes sont souvent qualifiés de jusque boutiste et ont le soutient d'une bonne partie de la population pour mettre en place des bloquage ou des grèves et empecher un gouvernement de consensus. Il y a aussi de forte poussé régionaliste, notament des régions du Sud qui veulent faire céssession. C'est le reflet de la différence de mentalité entre les peuples du Nord (proche des montagnes) et du Sud (plus influencé par l'Inde voisine).
+Géographiquement le Népal est coincé entre deux puissance mondiale, la Chine et l'Inde. L'Inde est assez influante politiquement sur le Népal encore aujourd'hui. Politiquement, le Népal est aujourd'hui une République fédérale constituée de 5 régions (Extrême-ouest, Moyen-ouest, Ouest, Centre, Est). Il est dirigé par un président, un vice-président et un premier ministre (qui concentre le pouvoir executif). Il y a deux formations politiques importantes: les maoïstes (communistes) et le Congrès népalais (plus libéral). La stabilité politique n'est que très récente et reste fragile. En effet, les maoïstes sont souvent qualifiés de jusque boutiste et ont le soutient d'une bonne partie de la population pour mettre en place des bloquage ou des grèves et empecher un gouvernement de consensus. Il y a aussi de forte poussé régionaliste, notament des régions du Sud qui veulent faire céssession. C'est le reflet de la différence de mentalité entre les peuples du Nord (proche des montagnes) et du Sud (plus influencé par l'Inde voisine).<br/>
+
 
 ## La religion
 
