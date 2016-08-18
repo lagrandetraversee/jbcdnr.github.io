@@ -20,7 +20,7 @@ A travers ce périple, nous souhaitons relever deux défis. Le premier est un ch
 
 <br>Plus de 1000kms de marche à des altitudes variant jusqu’à 5550m seront nécessaires pour atteindre le frontière Ouest. Alternant entre la piste haute et la piste basse du Great Himalaya Trail(1) (GHT), nous avons tracé notre itinéraire comme suit.
 
-<div style="width: 280px;font-size:10px; margin:auto;">(1)Le Népal est traversé d'Est en Ouest par deux voies reliant les régions de trekking les plus connues :<br/>
+<div style="width: 280px;font-size:10px; margin:auto;">(1)Le Népal est traversé d'Est en Ouest par deux voies reliant les régions de trekking les plus connues :
 
 - La piste haute : située au Nord, elle s’étend sur une distance d’environ 1700 km et franchit des sites spectaculaires en haute montagne. Elle visite ainsi des villages parmi les plus isolés.<br/>
 - La piste basse : aussi appelée «route culturelle» en raison des nombreux villages traversés, elle sillonne la vallée à une altitude moyenne de 2000m.</div>
