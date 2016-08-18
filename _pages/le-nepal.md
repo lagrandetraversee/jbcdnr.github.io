@@ -7,7 +7,7 @@ title:     Carte d'identité du Népal
 excerpt:   Ce que nous savons sur le pays.
 ---
 
-<center>Carrefour mythique sur la route du sel et de la soie, le Népal regorge de merveilles naturelles et culturelles.
+<center>Carrefour mythique sur la route du sel et de la soie, le Népal regorge de merveilles culturelles et naturelles.
 Petit aperçu de cette contrée lointaine...</center>
 
 ## Informations générales
