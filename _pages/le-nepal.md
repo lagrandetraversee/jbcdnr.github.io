@@ -31,7 +31,7 @@ Voisins directs | Inde et Chine
 
 ## <br><br>La Géographie
 
-Petit pays enclavé entre deux géants, la Chine au nord (Tibet) et l’Inde au sud, à l’est et à l’ouest, le Népal s’étire d'est en ouest sur 885 km tandis que sa largeur varie de 145 à 241 km du nord au sud. Sa superficie est de 147 181 km². Kachan Kalan, son point le plus bas, se situe à 70 mètres au-dessus du niveau de la mer tandis que son point le plus élevé, le mont Everest, atteint 8 850 mètres d'altitude. Cette variation d'altitude extrême et la latitude à laquelle est situé le Népal font de ce pays l'un des plus diversifiés du monde. Le royaume du Népal est devenue en 2008 une république démocratique à la suite de l'élection d'une Assemblée constituante dont la première décision fut d'abolir la monarchie. Le Népal est un pays multiculturel fortement ancré dans ses traditions.
+Petit pays enclavé entre deux géants, la Chine au nord (Tibet) et l’Inde au sud, à l’est et à l’ouest, le Népal s’étire d'est en ouest sur 885 km tandis que sa largeur varie de 145 à 241 km du nord au sud. Sa superficie est de 147 181 km². Kachan Kalan, son point le plus bas, se situe à 70 mètres au-dessus du niveau de la mer tandis que son point le plus élevé, le mont Everest, atteint 8 850 mètres d'altitude. Cette variation d'altitude extrême et la latitude à laquelle est situé le Népal font de ce pays l'un des plus diversifiés du monde. Le royaume du Népal est devenue en 2008 une république démocratique à la suite de l'élection d'une Assemblée constituante dont la première décision fut d'abolir la monarchie. Le Népal est un pays multiculturel fortement ancré dans ses traditions.<br/>
 
 
 ## La Politique
