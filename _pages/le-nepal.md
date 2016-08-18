@@ -22,6 +22,7 @@ Monnaie | Roupies népalaise (1€ = 120NPR)
 Population | 30 millions d'habitants (estimation 2013)
 Superficie | 150'000 km<sup>2</sup> (1/4 de la France)
 Voisins directs | Inde et Chine
+--- | ---
 <br/>
 <p><img src="/media/img/flag.png" style="width: 150px;float:left;">
 
@@ -38,6 +39,7 @@ Distance Ouest-Est | 885kms
 Distance Nord-Sud  | 145 à 241 kms
 Altitude la plus faible | 70m (Kachan Kalan)
 Altitude la plus élevée  | 8848m (Everest)
+--- | ---
 
 La géographie du Népal a souvent été comparée au relief d'un escalier: 5 bandes s'étendant d'Est en Ouest, correspondant à 5 paliers, forment les 5 grandes régions naturelles du pays:
 - <I>Le Téraï</I>, ou région basse, est une terre d'alluvions formant le piémont de la grande plaine du Gange. Les terres cultivables en bordure des affluents du Gange sont régulièrement inondées.
