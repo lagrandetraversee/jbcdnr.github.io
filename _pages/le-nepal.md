@@ -16,14 +16,19 @@ culturelles et naturelles. Petit aperçu de cette lointaine contrée...</p></div
 
 <table border>
 <tr>
-<td>Nom officiel<td/><td>République démocratique fédérale du Népal<td/>
-<td>Capitale<td/><td>Kathmandu<td/>
-<td>Langues<td/><td>népali (officielle), maithili, bhojpuri (dialectes hindis), newari...<td/>
-<td>Monnaie<td/><td>Roupies népalaise (1€ = 120NPR)<td/>
-<td>Population<td/><td>30 millions d'habitants (estimation 2013)<td/>
-<td>Superficie<td/><td>150'000 km<sup>2</sup> (1/4 de la France)<td/>
-<td>Voisins directs<td/><td>Inde et Chine<td/>
-</tr>
+<td>Nom officiel<td/><td>République démocratique fédérale du Népal<td/></tr>
+<tr>
+<td>Capitale<td/><td>Kathmandu<td/></tr>
+<tr>
+<td>Langues<td/><td>népali (officielle), maithili, bhojpuri (dialectes hindis), newari...<td/></tr>
+<tr>
+<td>Monnaie<td/><td>Roupies népalaise (1€ = 120NPR)<td/></tr>
+<tr>
+<td>Population<td/><td>30 millions d'habitants (estimation 2013)<td/></tr>
+<tr>
+<td>Superficie<td/><td>150'000 km<sup>2</sup> (1/4 de la France)<td/></tr>
+<tr>
+<td>Voisins directs<td/><td>Inde et Chine<td/></tr>
 </table>
 
 <br/>
