@@ -23,16 +23,14 @@ Population|30 millions d'habitants (estimation 2013)
 Superficie|150'000 km<sup>2</sup> (1/4 de la France)
 Voisins directs|Inde et Chine
 
-<br/>
 <p><img src="/media/img/flag.png" style="width: 150px;float:left;">
-
 <I><br><br>Fun fact: le drapeau népalais n'est pas rectangulaire, il ressemble aux oriflammes du Moyen-Age !                                                                                                                                                    
 </I></p><br/>
 
 
-## <br><br>La Géographie
+## <br>La Géographie
 
-<p>Petit pays enclavé entre deux géants, la Chine au Nord (Tibet) et l’Inde au Sud, à l'Est et à l'Ouest, le Népal est un des pays dont le relief est le plus accidenté au monde. Quelques chiffres pour mieux comprendre:
+Petit pays enclavé entre deux géants, la Chine au Nord (Tibet) et l’Inde au Sud, à l'Est et à l'Ouest, le Népal est un des pays dont le relief est le plus accidenté au monde. Quelques chiffres pour mieux comprendre:
 
 ---|---
 Distance Ouest-Est|885kms
