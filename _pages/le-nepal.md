@@ -25,7 +25,7 @@ Voisins directs | Inde et Chine
 <I><br><br>Fun fact: le drapeau népalais n'est pas rectangulaire, il ressemble aux oriflammes du Moyen-Age !                                                                                                                                                                                                                                                                         </I></p>
 
 
-## <br>La Géographie
+## <br><br>La Géographie
 
 
 
