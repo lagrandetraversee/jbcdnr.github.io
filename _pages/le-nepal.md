@@ -43,7 +43,7 @@ La géographie du Népal a souvent été comparée au relief d'un escalier: 5 ba
 - Les Siwalik : cette formation montagneuse se compose de crêtes séparées par de larges vallées appelées doon, dans lesquelles pénètre la forêt vierge. C’est là que les plaques indiennes et tibétaines se rencontrent. Cette région est peu habitée.
 - Le Mahabharata Lekh, en revanche, est une véritable chaîne de montagnes.
 - Le plateau népalais, le cœur du pays, constitue le plus important niveau. Des fleuves transversaux viennent partager ce plateau en neuf bassins naturels. C'est la partie la plus riche du pays, et celle où se trouvent les plus grandes villes (Kathmandu, Patan, Bhaktapur et Pokhara). 
-- La chaîne himalayenne : sur les 14 sommets de la terre dépassant les 8 000 m, 9 sont situés au Népal ou sur ses confins. On trouve des forêts et des cultures à 4 000 m, des pâturages à 5 000 m, et on a même pu voir des plantes à fleurs à plus de 6 000 m !
+- La chaîne himalayenne : sur les 14 sommets de la terre dépassant les 8 000 m, 9 sont situés au Népal ou sur ses confins. On trouve des forêts et des cultures à 4 000 m, des pâturages à 5 000 m, et on a même pu voir des plantes à fleurs à plus de 6 000 m !<br/>
 
 ## La Politique
 
