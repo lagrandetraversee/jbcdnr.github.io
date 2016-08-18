@@ -7,7 +7,7 @@ title:     Carte d'identité du Népal
 excerpt:   Ce que nous savons sur le pays.
 ---
 
-Avant de nous lancer dans cette aventure hors du commun, nous nous sommes renseigné sur le pays qui va nous accueillir. Cela passe par connaitre sa géographie, son organisation et quelques mots de la langue. Nous sommes aussi curieux de la culture du peuple Népalais, qui pour certains vivent très isolés dans les montagnes. À priori la religion est un pilier important de la culture népalaise et beaucoup des photos d'expeditions et de treck representent des temples ou des kerns. Nous verrons si cela se confirme lors de notre voyage.
+<center>Carrefour mythique sur la route du sel et de la soie, le Népal regorge de merveilles naturelles et culturelles. Petit aperçu de cette contrée lointaine...</center>
 
 ## Informations générales
 
@@ -27,6 +27,7 @@ Voisins directs | Inde et Chine
 
 ## <br><br>La Géographie
 
+Petit pays enclavé entre deux géants, la Chine au nord (Tibet) et l’Inde au sud, à l’est et à l’ouest, le Népal s’étire d'est en ouest sur 885 km tandis que sa largeur varie de 145 à 241 km du nord au sud. Sa superficie est de 147 181 km². Kachan Kalan, son point le plus bas, se situe à 70 mètres au-dessus du niveau de la mer tandis que son point le plus élevé, le mont Everest, atteint 8 850 mètres d'altitude. Cette variation d'altitude extrême et la latitude à laquelle est situé le Népal font de ce pays l'un des plus diversifiés du monde. Le royaume du Népal est devenue en 2008 une république démocratique à la suite de l'élection d'une Assemblée constituante dont la première décision fut d'abolir la monarchie. Le Népal est un pays multiculturel fortement ancré dans ses traditions.
 
 
 ## La Politique
