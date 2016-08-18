@@ -9,7 +9,7 @@ excerpt:   Ce que nous savons sur le pays.
 
 
 <div style="text-align:center">Carrefour mythique sur la route du sel et de la soie, le Népal regorge de merveilles<p>
-culturelles et naturelles. Petit aperçu de cette contrée lointaine...</p></div><br/>
+culturelles et naturelles. Petit aperçu de cette contrée lointaine...</p></div>
 
 
 ## Informations générales
