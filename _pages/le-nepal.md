@@ -14,15 +14,17 @@ culturelles et naturelles. Petit aperçu de cette lointaine contrée...</p></div
 
 ## Informations générales
 
----
-Nom officiel | République démocratique fédérale du Népal
-Capitale | Kathmandu
-Langues | népali (officielle), maithili, bhojpuri (dialectes hindis), newari...
-Monnaie | Roupies népalaise (1€ = 120NPR)
-Population | 30 millions d'habitants (estimation 2013)
-Superficie | 150'000 km<sup>2</sup> (1/4 de la France)
-Voisins directs | Inde et Chine
----
+<table border>
+<tr>
+<td>Nom officiel<td/><td>République démocratique fédérale du Népal<td/>
+<td>Capitale<td/><td>Kathmandu<td/>
+<td>Langues<td/><td>népali (officielle), maithili, bhojpuri (dialectes hindis), newari...<td/>
+<td>Monnaie<td/><td>Roupies népalaise (1€ = 120NPR)<td/>
+<td>Population<td/><td>30 millions d'habitants (estimation 2013)<td/>
+<td>Superficie<td/><td>150'000 km<sup>2</sup> (1/4 de la France)<td/>
+<td>Voisins directs<td/><td>Inde et Chine<td/>
+</tr>
+</table>
 
 <br/>
 <p><img src="/media/img/flag.png" style="width: 150px;float:left;">
