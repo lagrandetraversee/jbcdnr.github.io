@@ -20,9 +20,8 @@ Population | 30 millions d'habitants (estimation 2013)
 Superficie | 150'000 km<sup>2</sup> (1/4 de la France)
 Voisins directs | Inde et Chine
 
-
-![drapeau](/media/img/flag.png#right)
-*Fun fact:* le drapeau népalais n'est pas réctangulaire, il ressemble aux orriflames du moyen age !
+<p><img src="/media/img/flag.png" style="width: 200px;float:right;">
+*Fun fact:* le drapeau népalais n'est pas réctangulaire, il ressemble aux orriflames du moyen age !<p/>
 
 
 ## La Géographie
