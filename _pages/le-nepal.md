@@ -13,12 +13,10 @@ culturelles et naturelles. Petit aperçu de cette lointaine contrée...</p></div
 
 
 ## Informations générales
+--- | ---
+Nom officiel | République démocratique fédérale du Népal
+Capitale | Kathmandu
 
-<table border>
-<tr>
-<td>Nom officiel<td/><td>République démocratique fédérale du Népal<td/></tr>
-<tr>
-<td>Capitale<td/><td>Kathmandu<td/></tr>
 <tr>
 <td>Langues<td/><td>népali (officielle), maithili, bhojpuri (dialectes hindis), newari...<td/></tr>
 <tr>
