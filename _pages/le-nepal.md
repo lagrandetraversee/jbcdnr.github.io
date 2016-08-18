@@ -19,7 +19,15 @@ Monnaie | Roupies népalaise (1€ = 120NPR)
 Population | 30 millions d'habitants (estimation 2013)
 Superficie | 150'000 km<sup>2</sup> (1/4 de la France)
 Voisins directs | Inde et Chine
-<img src="/media/img/flag.png" style="width:150px;"> | <td align="right">*Fun fact:* le drapeau népalais n'est pas réctangulaire, il ressemble aux orriflames du moyen age !</td>
+
+<table border>
+<tr>
+<td align="center";
+    valign:"left"><img src="/media/img/flag.png" style="width:150px;"></td>
+<td align="center";
+    valign:"left"><*Fun fact:* le drapeau népalais n'est pas réctangulaire, il ressemble aux orriflames du moyen age !</td>
+</tr>
+</table>
 
 
 ## La Géographie
