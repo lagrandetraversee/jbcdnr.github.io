@@ -29,7 +29,7 @@ A travers ce périple, nous souhaitons relever deux défis. Le premier est un ch
 
 Impossible de découvrir le Népal sans s’approcher du « Toit du Monde ». C'est pourquoi, lorsque nous arriverons dans la région de l’Everest, nous remonterons au Nord dans la région du Khumbu pour réaliser une seconde boucle qui promet un spectacle époustouflant:<br/>
 
-- Des cols à plus de 5000m d’altitude (le terme «La» signifie «col» en népali);<br/>
+- Des cols à plus de 5000m d’altitude;<br/>
 - Le Kala Pattar (5545m): son nom se traduit par «Roche Noire» en népali et en hindi. Il est réputé pour la vue splendide qu’il offre sur l’Everest;<br/>
 - Les lacs de Gokyo: au nombre de 6, ils sont situés à plus de 4700m d’altitude.<br/>
 Une fois la boucle bouclée, nous nous dirigerons vers Jiri afin de trouver un moyen de transport pour atteindre Katmandou. Nous espérons réaliser l’ensemble de cette première section (Ghunsa-Katmandou) en moins d’un mois.
@@ -40,7 +40,7 @@ Nous arriverons alors dans la région du Dolpo, où nous nous orienterons vers l
 
 ## Notre matériel
 
-Ennemi n°1: le poids. Nous mettons un point d'honneur à partir léger car nous savons d'expérience que le dicton "qui veut aller loin ménage sa monture" est véridique. Nous visons donc d'être en dessous des 12kg tout compris.
+Ennemi n°1: le poids. Nous mettons un point d'honneur à partir léger car nous savons d'expérience que le dicton "qui veut aller loin ménage sa monture" est véridique. Nous visons donc d'avoir des sacs de moins de 12kg tout compris.
 
 Voici une liste sommaire du matériel que nous emporterons:
 
