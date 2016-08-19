@@ -50,7 +50,7 @@ Voici une liste sommaire du matériel que nous emporterons:
 - Réchaud à essence + briquet
 - Lampe frontale + piles
 - Montre altimètre & boussole
-- Battons de marche
+- Bâtons de marche
 - Couverture de survie + sifflet + balise satellite
 - Chaussures de marche
 - Chaussures de sport
