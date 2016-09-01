@@ -46,6 +46,7 @@ permalink: /bags/
 - crème solaire
 - **anti moustique ?**
 - couverture de survie
+- protection kway pour le sac
 
 ### Hygiene
 
