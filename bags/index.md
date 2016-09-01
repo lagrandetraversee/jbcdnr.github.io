@@ -1,3 +1,4 @@
+---
 layout: default2
 permalink: /bags/
 ---
