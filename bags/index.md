@@ -16,8 +16,8 @@ permalink: /bags/
 - short de sport
 - collant
 - jogging
-- **7 paires de chaussettes, lesquelles ?**
-- 7 calecons
+- **3 paires de chaussettes, lesquelles ?**
+- 3 calecons
 - bonnet
 - gants leger
 - **gants de ski ou gant polaire ?**
@@ -45,6 +45,7 @@ permalink: /bags/
 - ficelle
 - crème solaire
 - **anti moustique ?**
+- couverture de survie
 
 ### Hygiene
 
