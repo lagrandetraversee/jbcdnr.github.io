@@ -5,6 +5,10 @@ permalink: /bags/
 
 ## Affaires de JB
 
+**Gras** besoin d'acheter ou de récupérer, *italique* pas indispensable. 
+
+- **sac à dos**
+
 ### Vêtements
 
 - 3 T-shirts respirants
@@ -16,11 +20,11 @@ permalink: /bags/
 - short de sport
 - collant
 - jogging
-- **3 paires de chaussettes, lesquelles ?**
+- 4 paires de chaussettes
 - 3 calecons
 - bonnet
 - gants leger
-- **gants de ski ou gant polaire ?**
+- gants de ski
 - lunettes de soleil
 - casquette
 
@@ -28,29 +32,32 @@ permalink: /bags/
 
 - chaussures de rando
 - chaussures basses salomon
-- **sandales**
+- *sandales*
 
 ### Equipement
 
 - lampe frontale
 - boussole
 - réchaud à essence + bouteille + kit de reparation
+- popote, quart, cuillère, fourchette
+- gourdes >2L
 - tapis de sol
 - sac de couchage
 - **drap polaire**
 - thermos 0.7L
 - **batons de randonnée**
 - couteau suisse
-- scotch
 - ficelle
+- *scotch*
 - crème solaire
-- **anti moustique ?**
 - couverture de survie
 - protection kway pour le sac
+- carnet stylo
+- *triple prise*
 
 ### Hygiene
 
-- 2 serviettes de toilette fine
+- serviette de toilette fine, *deuxieme petite*
 - maillot de bain
 - dentifrice + brosse à dent
 - deodorant
@@ -69,18 +76,16 @@ permalink: /bags/
 
 - passeport
 - carte d'assurance
-- **argent + travel cash ?**
+- argent
 - carte bleu
 - permi de conduire
 
 ### TODO
 
-- pharmacie
-- popotte ? eponge, torchon, produit vaisselle
-- bouteille d'eau ou gourde ?
+- pharmacie, anti moustique
 - telecharger lonely planet sur kindle
 - livres sur kindle
 - telecharger cartes sur telephone
 - sac de rando de la maman de Sarah
-- baton ?
+- réparer baton
 
