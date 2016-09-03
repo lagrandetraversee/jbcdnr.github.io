@@ -17,8 +17,8 @@ Outre le scoutisme, c'est aussi à son enseignante de CE2 qu'il doit son rêve l
 
 <img class="img-people" src="../media/img/jb.jpg#right"/> 
 
-Futur ingénieur de 21 ans, Jean-Baptiste étudie l'informatique à l'[EPFL](https://www.epfl.ch/) (Lausanne, Suisse). Originaire de Haute-Savoie, il adore la montagne et les spécialités régionales (même la fondue moitié-moitié du voisin Suisse). 
+Futur ingénieur de 21 ans, Jean-Baptiste étudie l'informatique à l'[EPFL](https://www.epfl.ch/) (Lausanne, Suisse). Originaire de Haute-Savoie, il adore la montagne et les spécialités régionales - même la fondue moitié-moitié du voisin helvète. 
 
-Curieux et aventurier, Jean-Baptiste a toujours eu le goût de l'effort pour aller à la découverte de nouveau pays et de nouvelles cultures. C'est notament aux scouts qu'il son envie de profiter de chaque  opportunité pour apprendre et partager avec les autres. Entre réparer le moteur d'une voiture pour le 4L Trophy ou découvrir la culture Bulgare en faisant de l'humanitaire dans des orphelinats du pays, il dit toujours OUI à une nouvelle aventure !
+Curieux et aventurier, Jean-Baptiste a toujours eu le goût de l'effort pour aller à la découverte de nouveaux pays et de nouvelles cultures. C'est notament aux scouts qu'il doit son envie de profiter de chaque  opportunité pour apprendre et partager avec les autres. Entre réparer le moteur d'une voiture pour le 4L Trophy ou découvrir la culture Bulgare en faisant de l'humanitaire dans des orphelinats du pays, il dit toujours OUI à une nouvelle aventure !
 
 Ce globe trotteur de 21 ans enchaine les expériences hors du commun: année d'échange aux Etats-Unis, trek dans les parc nationaux, ski de rando au Colorado, stage à Berlin, randonnée à la réunion, vélo en Islande... Alors, quoi de mieux pour un amoureux de la montagne que de s'approcher du toit du monde ?
