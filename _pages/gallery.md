@@ -3,7 +3,7 @@ layout:    page
 permalink: "/gallery/"
 weight:    100
 menutitle: Galerie
-title:     La Galerie Photos
+title:     Les Photos
 excerpt:   Toutes les images de nos aventures au Népal.
 photos: 
 
