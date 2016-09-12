@@ -7,7 +7,8 @@ menutitle: L'équipe
 excerpt:   Qui sommes-nous?
 ---
 
-*À partir de deux, ça forme déjà une équipe !* Nous sommes deux étudiants passionnés de voyages et de montagne qui se sont rencontrés sur les bancs du lycée il y a maintenant quelques années. N'hésitez pas à nous contacter sur [lagrandetraversee@gmail.com](mailto:lagrandetraversee@gmail.com).
+<center>*À partir de deux, ça forme déjà une équipe !* 
+Nous sommes deux étudiants passionnés de voyages et de montagne qui se sont rencontrés sur les bancs du lycée il y a maintenant quelques années. N'hésitez pas à nous contacter sur [lagrandetraversee@gmail.com](mailto:lagrandetraversee@gmail.com).<center/>
 
 ## Pierre
 
