@@ -7,7 +7,7 @@ menutitle: L'équipe
 excerpt:   Qui sommes-nous?
 ---
 
-*À partir de deux, ça forme déjà une équipe !* Nous sommes des jeunes étudiants passionnés de voyages et de montagnes. Nous nous sommes rencontrés il y a maintenant 7 ans au lycée, vous pouvez découvrir notre description ci-dessous. N'hésitez pas à nous contacter sur [pierre.vandame@gmail.com](mailto:pierre.vandame@gmail.com) ou [jb.cdnr@gmail.com](mailto:jb.cdnr@gmail.com).
+*À partir de deux, ça forme déjà une équipe !* Nous sommes deux étudiants étudiants passionnés de voyages et de montagne qui se sont rencontrés sur les bancs du lycée il y a maintenant quelques années. N'hésitez pas à nous contacter sur [lagrandetraversee@gmail.com](mailto:lagrandetraversee@gmail.com).
 
 ## Pierre
 
