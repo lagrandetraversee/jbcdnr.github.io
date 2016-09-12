@@ -7,7 +7,8 @@ menutitle: L'équipe
 excerpt:   Qui sommes-nous?
 ---
 
-*À partir de deux, ça forme déjà une équipe !* N'hésitez pas à nous contacter sur [lagrandetraversee@gmail.com](mailto:lagrandetraversee@gmail.com).
+<center>*À partir de deux, ça forme déjà une équipe !*
+N'hésitez pas à nous contacter sur [lagrandetraversee@gmail.com](mailto:lagrandetraversee@gmail.com).<center/>
 
 ## Pierre
 
