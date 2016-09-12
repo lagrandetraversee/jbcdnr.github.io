@@ -8,11 +8,11 @@ page.title: Suivez-nous
 
     <p class="category" style="text-align: centre;">
     Namaste!<br/><br/>
-    
+
     Traverser le Népal, voilà une bien belle expédition sur le point d'être réalisée. Nous sommes deux étudiants qui allons parcourir à pied plus de 1 000km à travers le chaîne himalayenne. Un véritable périple dans lequel nous impliquons une classe de primaire, qui nous suivra virtuellement grâce à notre balise satellite et nos newsletters.<br/><br/>
 
     Bonne visite sur notre site!<br/><br/>
-    <I>"Il n'y a pas de chemin qui mène au bonheur, le bonheur est le chemin". Buddha</I>
+    <I>"Il n'y a pas de chemin qui mène au bonheur, le bonheur est le chemin." Buddha</I>
     </p>
 
 
@@ -32,7 +32,21 @@ page.title: Suivez-nous
                 <article class="article" itemscope itemtype="http://schema.org/BlogPosting">
                     <header class="post-header">
                         <span class="title"><a itemprop="name" href="{{ post.url | prepend: site.github.url | prepend: site.baseurl}}" title="{{ title }}">{{ title }}</a></span>
-                        <time class="date" itemprop="datePublished" datetime="{{post.date | date: "%Y-%m-%d"}}">{{post.date | date: "%B %e, %Y"}}</time>
+                        <time class="date" itemprop="datePublished" datetime="{{post.date | date: "%Y-%m-%d"}}">{{ post.date | date: "%-d" }} {% assign m = post.date | date: "%-m" %}
+{% case m %}
+  {% when '1' %}janvier
+  {% when '2' %}février
+  {% when '3' %}mars
+  {% when '4' %}avril
+  {% when '5' %}mai
+  {% when '6' %}juin
+  {% when '7' %}juillet
+  {% when '8' %}août
+  {% when '9' %}septembre
+  {% when '10' %}octobre
+  {% when '11' %}novembre
+  {% when '12' %}décembre
+{% endcase %} {{ post.date | date: "%Y" }}</time>
                     </header>
                 </article>
             </div>

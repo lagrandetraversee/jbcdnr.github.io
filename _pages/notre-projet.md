@@ -20,11 +20,16 @@ A travers ce périple, nous souhaitons relever deux défis. Le premier est un ch
 
 Plus de 1 000kms de marche à des altitudes variant jusqu’à 5 550m seront nécessaires pour atteindre le frontière Ouest. Alternant entre la piste haute et la piste basse du Great Himalaya Trail (GHT), nous avons tracé notre itinéraire comme suit.
 
-> *Le Népal est traversé d'Est en Ouest par deux voies reliant les régions de trekking les plus connues :*
-> <ul>*<li> La piste haute : située au Nord, elle s’étend sur une distance d’environ 1 700km et franchit des sites spectaculaires en haute montagne. Elle visite ainsi des villages parmi les plus isolés.</li>*
-> *<li>La piste basse : aussi appelée «route culturelle» en raison des nombreux villages traversés, elle sillonne la vallée à une altitude moyenne de 2 000m.</li>*</ul>
+<blockquote style="font-size:.8em"><i>
+Le Népal est traversé d'Est en Ouest par deux voies reliant les régions de trekking les plus connues :
+<ul>
+<li> La piste haute : située au Nord, elle s’étend sur une distance d’environ 1 700km et franchit des sites spectaculaires en haute montagne. Elle visite ainsi des villages parmi les plus isolés.</li>
+<li>La piste basse : aussi appelée «route culturelle» en raison des nombreux villages traversés, elle sillonne la vallée à une altitude moyenne de 2 000m.</li>
+</ul>
+</i>
+</blockquote>
 
-<br>Après notre arrivée à Katmandou (1 400m) par avion, nous rejoindrons Taplejung (1 900m) en bus/jeep/autre située au Sud de Ghunsa (3 595m). Nous effectuerons alors une boucle dans la région du Kanchenjunga pour atteindre Ghunsa puis revenir à Taplejung avant de repartir vers l’Ouest, direction la région de l’Everest.
+Après notre arrivée à Katmandou (1 400m) par avion, nous rejoindrons Taplejung (1 900m) en bus/jeep/autre située au Sud de Ghunsa (3 595m). Nous effectuerons alors une boucle dans la région du Kanchenjunga pour atteindre Ghunsa puis revenir à Taplejung avant de repartir vers l’Ouest, direction la région de l’Everest.
 
 Impossible de découvrir le Népal sans s’approcher du « Toit du Monde ». C'est pourquoi, lorsque nous arriverons dans la région de l’Everest, nous remonterons au Nord dans la région du Khumbu pour réaliser une seconde boucle qui promet un spectacle époustouflant:<br/>
 
