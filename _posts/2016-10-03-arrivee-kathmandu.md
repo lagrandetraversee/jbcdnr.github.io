@@ -33,7 +33,7 @@ Préparation du trek et obtention des permis de treks, découverte de la nourrit
 Accompagnés d'un guide nous visitons Durbar Square où nous sommes confrontés à l'ampleur de la culture népalaise. Un mélange de bouddhisme, d'hindouisme et d'influence tibétaine ce qui donne 30 millions de divinités (soit plus que d'habitants). Pas facile de décrire ici les légendes et les rites dont nous avons entendu parler. Néanmoins, nous pouvons vous parler brièvement de deux coutumes: 
 
 - Nous sommes en pleine période de festival (fêtes religieuses) et pour célébrer les divinités, 54 buffles et 54 chèvres seront sacrifiés, imaginez le bain de sang.
-- Mieu que Miss France: vous êtes une fillette de trois ans et de haut rang bouddhiste, alors vous êtes sélectionnable pour devenir Kumari, la réincarnation de la déesse Taleju sur terre. Autrement dit, vous êtes isolée dans un temple et élevée par des prêtres jusqu'au début de votre adolescence, moment où vous serez remplacée par une autre petite fille. Chanceuse!
+- Mieux que Miss France: vous êtes une fillette de trois ans et de haut rang bouddhiste, alors vous êtes sélectionnable pour devenir Kumari, la réincarnation de la déesse Taleju sur terre. Autrement dit, vous êtes isolée dans un temple et élevée par des prêtres jusqu'au début de votre adolescence, moment où vous serez remplacée par une autre petite fille. Chanceuse!
 
 <figure>
    <img src="/media/img/1/temple.jpg" />
