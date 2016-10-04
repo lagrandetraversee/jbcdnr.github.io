@@ -21,7 +21,7 @@ L'après-midi, nous nous intéressons à l'Ouest de Kathmandu: ballade et visite
    <figcaption>Les singes dans le parc qui se font nourrir par les fidèles</figcaption>
 </figure>
 
-Courant de l'après-midi nous recevons un appel affirmant que le sac arriverait le lendemain. Excitation et méfiance ? 
+Courant de l'après-midi nous recevons un appel affirmant que le sac arriverait le lendemain. Excitation ou méfiance ? 
 
 
 <figure>
@@ -31,4 +31,5 @@ Courant de l'après-midi nous recevons un appel affirmant que le sac arriverait 
 
 
 ### Mardi 4 Octobre
-SAC RETROUVÉ !!! Quel soulagement ! Nous prenons rapidement les billets pour la frontière Est puis Taplejung (début de notre trek). Nous partons en pleine nuit: 14h + 8h de bus locaux Youhou :) Nous avons raccourci notre parcours de quelques jours en partant directement vers l'Ouest. 
+
+SAC RETROUVÉ !!! Quel soulagement ! Nous prenons rapidement les billets pour la frontière Est puis Taplejung (début de notre trek). Nous partons en pleine nuit: 14h + 8h de bus locaux.  Youhou :) Nous avons raccourci notre parcours de quelques jours en partant directement vers l'Ouest. 
