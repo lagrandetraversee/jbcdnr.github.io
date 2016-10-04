@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Vers le départ
+title: Départ vers l'Est
 ---
 
 ### Lundi 3 Octobre
 
-Les appels à l'aéroport rythment notre journée et nous faisons même un aller/retour à l'aéroport pour faire avancer les choses, nous avons hâte de partir !
-
+Les appels à l'aéroport rythment notre journée et nous faisons même un aller/retour pour faire avancer les choses, nous avons hâte de partir !
 
 <figure>
    <img src="/media/img/2/stupa.jpg" />
@@ -23,12 +22,10 @@ L'après-midi, nous nous intéressons à l'Ouest de Kathmandu: ballade et visite
 
 Courant de l'après-midi nous recevons un appel affirmant que le sac arriverait le lendemain. Excitation ou méfiance ? 
 
-
 <figure>
    <img src="/media/img/2/us.jpg" />
    <figcaption>Pierre et Jean-Baptiste devant un bouda</figcaption>
 </figure>
-
 
 ### Mardi 4 Octobre
 
