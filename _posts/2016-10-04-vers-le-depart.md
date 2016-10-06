@@ -24,9 +24,9 @@ Courant de l'après-midi nous recevons un appel affirmant que le sac arriverait 
 
 <figure>
    <img src="/media/img/2/us.jpg" />
-   <figcaption>Pierre et Jean-Baptiste devant un bouda</figcaption>
+   <figcaption>Pierre et Jean-Baptiste devant un Buddha</figcaption>
 </figure>
 
 ### Mardi 4 Octobre
 
-SAC RETROUVÉ !!! Quel soulagement ! Nous prenons rapidement les billets pour la frontière Est puis Taplejung (début de notre trek). Nous partons en pleine nuit: 14h + 8h de bus locaux.  Youhou :) Nous avons raccourci notre parcours de quelques jours en partant directement vers l'Ouest. 
+SAC RETROUVÉ !!! Quel soulagement ! Nous prenons rapidement les billets pour la frontière Est puis Taplejung (début de notre trek). Nous partons en pleine nuit: 14h + 8h de bus locaux.  Youhou :) Nous avons décidé de raccourcir notre parcours de quelques jours en partant directement vers l'Ouest. 
