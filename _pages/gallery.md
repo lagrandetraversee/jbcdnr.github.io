@@ -6,7 +6,7 @@ menutitle: Galerie
 title:     Les Photos
 excerpt:   Toutes les images de nos aventures au Népal.
 photos: 
-
+  - file: /media/img/us.jpg
 ---
 
 Toutes les images de notre expédition viendront ici...
