@@ -6,6 +6,13 @@ menutitle: Galerie
 title:     Les Photos
 excerpt:   Toutes les images de nos aventures au Népal.
 photos: 
+  - file: /media/img/1/colors.jpg
+  - file: /media/img/1/jb.jpg
+  - file: /media/img/1/pierre.jpg
+  - file: /media/img/1/stupa.jpg
+  - file: /media/img/1/temple.jpg
+  - file: /media/img/2/monkey.jpg
+  - file: /media/img/2/stupa.jpg
   - file: /media/img/2/us.jpg
 ---
 
