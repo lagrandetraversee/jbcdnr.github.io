@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Départ vers l'Est
+title: Derniers préparatifs sur place
 ---
 
 ### Lundi 3 Octobre
