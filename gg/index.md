@@ -18,7 +18,7 @@ photos:
 <div class="album">
   {% for img in page.photos %}
    <figure>
-     <a href="/media/img{{ img.file }}" data-size="4000x3000">
+     <a fat="/media/img{{ img.file }}" data-size="4000x3000">
       <img src="/media/img/thumb{{ img.file }}" />
       </a>
       {% if img.caption %}
@@ -57,7 +57,7 @@ var initPhotoSwipeFromDOM = function(gallerySelector) {
 
             // create slide object
             item = {
-                src: linkEl.getAttribute('href'),
+                src: linkEl.getAttribute('fat'),
                 w: parseInt(size[0], 10),
                 h: parseInt(size[1], 10)
             };
