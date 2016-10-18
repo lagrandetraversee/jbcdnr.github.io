@@ -16,7 +16,6 @@ photos:
   - file: /media/img/2/us.jpg
   - file: /media/img/3/bus.jpeg
   - file: /media/img/3/galere.jpeg
-  - file: /media/img/3/land.jpeg
   - file: /media/img/3/farrice.jpeg
   - file: /media/img/3/uspass.jpeg
   - file: /media/img/3/ustree.jpeg

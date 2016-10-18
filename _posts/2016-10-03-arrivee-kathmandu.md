@@ -11,7 +11,7 @@ Nous sommes arrivés à Kathmandu vendredi dernier à 14h heure locale (10h15 he
 
 <figure>
    <img src="/media/img/1/pierre.jpg" />
-   <figcaption>Pierre devant une échoppe de tissus avec des népalaise</figcaption>
+   <figcaption>Pierre devant une échoppe de tissus avec des népalaises</figcaption>
 </figure>
 
 <figure>
