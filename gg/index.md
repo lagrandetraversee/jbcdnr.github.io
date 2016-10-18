@@ -19,7 +19,7 @@ photos:
 <div class="album">
   {% for img in page.photos %}
    <figure>
-     <a href="/media/img{{ img.file }}" data-size="4000x3000">
+     <a href="/media/img/3/pierre.jpeg" data-size="4000x3000">
       <img src="/media/img/thumb{{ img.file }}" />
       </a>
       {% if img.caption %}
