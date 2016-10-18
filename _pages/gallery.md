@@ -41,8 +41,6 @@ photos:
   - file: /media/img/3/ustree.jpeg
 ---
 
-Toutes les images de notre expédition viendront ici...
-
 <div class="album">
   {% for img in page.photos %}
    <figure>
