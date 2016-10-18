@@ -1,6 +1,6 @@
 ---
 layout:    page
-permalink: "/gallery/"
+permalink: "/gg/"
 weight:    100
 menutitle: Galerie
 title:     Les Photos
