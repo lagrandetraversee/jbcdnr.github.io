@@ -22,7 +22,15 @@ Premier col à 3200m d'altitude franchi. Quelle joie de savoir que nous redescen
 
 ### Jour 9
 
-"Diversité est le maître mot de cette journée". D'abord, nous négocions avec le 
+"Diversité est le maître mot de cette journée". D'abord, nous convainquons le garde du Makalu Barun National park qu'il n'est pas utile que nous déboursions 60€ pour entrer dans le parc et en sortir le soir même. Ensuite, nous rencontrons un australien. Pas n'importe lequel, puisqu'il s'agit d'un des globes trotteur sur qui s'est appuyé le Lonely Planet pour rédiger ses guides de voyages sur l'Asie. Profitons de cette rencontre pour récupérer quelques astuces. Col à 3000m. Enfin nous terminons la journée en jouant avec les enfants de notre lodge d'accueil: jongles au pieds avec une racine entourée d'un élastique faisant office de ballon, jongle avec des cailloux et démonstration du poirier en marchant sur les mains. 
+
+### Jour 10
+
+Troisième col à 3000m d'altitude. Longeons une crête sur la journée. Sommes de plus en plus excités à l'idée de se rapprocher de Lukla où nous ferons notre premier jour de pause.  
+
+### Jour 11
+
+Sortons de nos duvets avec joie, destination Lukla ! La matinée durant, nous marchons entre d'interminables caravanes de mules, chevaux et yak transport des vivres et du matériel entre Lukla et les villages voisins. Nous croisons également des groupes d'expedition: des occidentaux en marche avec leur porteur vers le Mera Peak, sommet à plus de 6000m d'altitude. Nos yeux maintenant affûtés repèrent rapidement deux catégories de trekkers. D'une part, les pros: allure sportive, vêtement flashy et ajustés, lunettes de glaciers vissées sur la tête. Des alpinistes chevronnés qui relèvent le défi d'atteindre le sommet sans oxygène, en un mot wahou ! D'autre part les marcheurs un peu moins chevronnés: légère bedaine, appareil photo rebondissant allègrement au rythme des pas. Euh, espèrent atteindre le sommet avec oxygène. Arrivée à Lukla en milieu d'après midi. Lessive, douche froide et repos au programme. Nous ne repartons qu'après demain pour le Khumbu: région de l'Everest !
 
 
 Jour | Date | Itinéraire | Dénivelé cumulé (m)
