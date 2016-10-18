@@ -10,11 +10,23 @@ title: En direction des hautes montagnes
 
 Frais et reposés, nous reprenons la route. Quelques vêtements accrochés sur nos sac à dos continuent de sécher après la lessive de la veille. Nous longeons une rivière sur plusieurs kilomètres avant de reprendre de l'altitude pour rejoindre le village de Majuwa en fin de journée. Chose étrange, les locaux chez qui nous arrivons tiennent absolument à ce que nous passions la nuit dans leur maison. 
 
+
+<figure>
+   <img src="/media/img/3/usback.jpeg" />
+   <figcaption></figcaption>
+</figure>
+
 ### Jour 6
 
 *Au voleur !*
 
 Hé hé hé... Notre vague intuition de la veille se confirme. Au moment de payer nos hôtes, la mère de famille nous fait faux bond: elle soutient ardemment que la personne avec qui nous avions négocié le prix de la chambre est un alcoolique qu'elle ne connaît à peine. Elle exige alors que l'on paye 5 fois le prix initial ! Sans trop savoir comment réagir, nous enterrons la discussion en ne payant que 2 fois le prix (1000 roupies népalaises ~ 10€) et nous jurons de ne plus nous laisser avoir de la sorte. Amertume... Restant de la journée: chaud mais ok. Nous utilisons la pompe pour filtrer l'eau d'une rivière et nous hydrater. 
+
+
+<figure>
+   <img src="/media/img/3/.jpeg" />
+   <figcaption></figcaption>
+</figure>
 
 ### Jour 7
 
