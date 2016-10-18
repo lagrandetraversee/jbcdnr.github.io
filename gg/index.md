@@ -1,5 +1,5 @@
 ---
-layout:    page
+layout:    default
 permalink: "/gg/"
 weight:    100
 menutitle: Galerie
