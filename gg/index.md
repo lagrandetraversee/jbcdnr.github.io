@@ -7,6 +7,7 @@ title:     Les Photos
 excerpt:   Toutes les images de nos aventures au Népal.
 photos: 
   - file: /3/jbstupa.jpeg
+    caption: Test
   - file: /3/jbstupa.jpeg
   - file: /3/jbstupa.jpeg
   - file: /3/jbstupa.jpeg
