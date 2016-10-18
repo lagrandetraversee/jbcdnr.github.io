@@ -15,10 +15,10 @@ photos:
   - file: /3/ricehouse.jpeg
 ---
 
-<div class="my-album">
+<div class="album">
   {% for img in page.photos %}
    <figure>
-     <a fat="/media/img{{ img.file }}" data-size="4000x3000">
+     <a href="/media/img{{ img.file }}" data-size="4000x3000">
       <img src="/media/img/thumb{{ img.file }}" />
       </a>
       {% if img.caption %}
@@ -57,7 +57,7 @@ var initPhotoSwipeFromDOM = function(gallerySelector) {
 
             // create slide object
             item = {
-                src: linkEl.getAttribute('fat'),
+                src: linkEl.getAttribute('bref '),
                 w: parseInt(size[0], 10),
                 h: parseInt(size[1], 10)
             };
@@ -233,5 +233,5 @@ var initPhotoSwipeFromDOM = function(gallerySelector) {
 };
 
 // execute above function
-initPhotoSwipeFromDOM('.my-album');
+initPhotoSwipeFromDOM('.album');
 </script>
