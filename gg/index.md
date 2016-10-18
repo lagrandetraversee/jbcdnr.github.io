@@ -11,7 +11,7 @@ photos:
   - file: /3/light.jpeg
 ---
 
-<div class="my-album">
+<div class="album">
   {% for img in page.photos %}
    <figure>
      <a href="/media/img{{ img.file }}" data-size="4000x3000">
@@ -229,5 +229,5 @@ var initPhotoSwipeFromDOM = function(gallerySelector) {
 };
 
 // execute above function
-initPhotoSwipeFromDOM('.my-album');
+initPhotoSwipeFromDOM('.album');
 </script>
