@@ -13,7 +13,7 @@ Frais et reposés, nous reprenons la route. Quelques vêtements accrochés sur n
 
 <figure>
    <img src="/media/img/3/usback.jpeg" />
-   <figcaption></figcaption>
+   <figcaption>Contemplatifs devant le chemin qu'il nous reste à parcourir...</figcaption>
 </figure>
 
 ### Jour 6
@@ -24,8 +24,8 @@ Hé hé hé... Notre vague intuition de la veille se confirme. Au moment de paye
 
 
 <figure>
-   <img src="/media/img/3/.jpeg" />
-   <figcaption></figcaption>
+   <img src="/media/img/3/bridge.jpeg" />
+   <figcaption>Pont en bambou croisé en route</figcaption>
 </figure>
 
 ### Jour 7
@@ -34,11 +34,21 @@ Hé hé hé... Notre vague intuition de la veille se confirme. Au moment de paye
 
 Petite journée, nous passons de 1500m à 2800m d'altitude en grimpant des escaliers, dré dans l'pentu comme on dirait par chez nous. Les népalais ne connaissent pas la notion de virage. Arrivée en début d'après-midi dans une bicoque à l'abandon. Profitons du reste de la journée, dans le brouillard, pour nous demander si nous avons froid ou très froid. 
 
+<figure>
+   <img src="/media/img/3/cold.jpeg" />
+   <figcaption>Seuls à la maison !</figcaption>
+</figure>
+
 ### Jour 8
 
 *De haut en bas et vice versa*
 
 Premier col à 3200m d'altitude franchi. Quelle joie de savoir que nous redescendons à 1300m d'altitude et remonterons à plus de 3000 le lendemain. Nous commençons à regretter les gros ponts français qui certes dénaturent le paysage en traversant les vallées mais sauvegardent nos genoux à coup sûr, aïe aïe aïe. 
+
+<figure>
+   <img src="/media/img/3/ustea.jpeg" />
+   <figcaption>Notre devise: un col, un thé</figcaption>
+</figure>
 
 ### Jour 9
 
@@ -52,12 +62,24 @@ Col à 3085m.
 
 Enfin, nous terminons la journée en jouant avec les enfants de notre lodge d'accueil: jongles au pieds avec une racine entourée d'un élastique faisant office de ballon, jongle avec des cailloux et démonstration du poirier en marchant sur les mains. 
 
+
+<figure>
+   <img src="/media/img/3/passflag.jpeg" />
+   <figcaption>Deuxième col</figcaption>
+</figure>
+
 ### Jour 10
 
 
 *De bas en haut et vice versa*
 
-Troisième col à plus de 3000m d'altitude. Nous longeons une crête sur la journée. Nous sommes de plus en plus excités à l'idée de nous rapprocher de Lukla où nous ferons notre premier jour de pause.  
+Troisième col à plus de 3000m d'altitude. Nous longeons une crête sur la journée. Nous sommes de plus en plus excités à l'idée de nous rapprocher de Lukla où nous ferons notre premier jour de pause. 
+
+
+<figure>
+   <img src="/media/img/3/uspole.jpeg" />
+   <figcaption>Troisième col</figcaption>
+</figure>
 
 ### Jour 11
 
@@ -65,7 +87,19 @@ Troisième col à plus de 3000m d'altitude. Nous longeons une crête sur la jour
 
 Sortons de nos duvets avec joie. Destination Lukla ! La matinée durant, nous marchons entre d'interminables caravanes de mûles, chevaux et yacks transportant des vivres et du matériel entre Lukla et les villages voisins. Nous croisons également des groupes d'expedition: des occidentaux en marche avec leurs porteurs vers le Mera Peak, sommet à plus de 6000m d'altitude, qui attirent les convoitises de différents marcheurs. D'une part, les pros: allure sportive, vêtements flashy et ajustés, lunettes de glacier vissées sur la tête. Des alpinistes chevronnés qui relèvent le défi d'atteindre le sommet sans oxygène, en un mot wahou ! D'autre part, les marcheurs un peu moins chevronnés: légère bedaine, appareil photo rebondissant allègrement sur le ventre au rythme des pas, un seul bâton de randonnée. Eux espèrent atteindre le sommet avec oxygène. 
 
+
+<figure>
+   <img src="/media/img/3/mules.jpeg" />
+   <figcaption>Ça bouchonne sur l'périph</figcaption>
+</figure>
+
 Arrivée à Lukla en milieu d'après-midi. Lessive, douche froide et repos au programme. Nous ne repartons qu'après demain pour le Khumbu, la région de l'Everest !
+
+
+<figure>
+   <img src="/media/img/3/toplukla.jpeg" />
+   <figcaption>Vue sur le Kong De (6185m) depuis notre chambre à Lukla</figcaption>
+</figure>
 
 
 Jour | Date | Itinéraire | Dénivelé cumulé (m)
