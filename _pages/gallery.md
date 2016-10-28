@@ -38,6 +38,32 @@ photos:
   - file: /media/img/3/stairs.jpeg
   - file: /media/img/3/toplukla.jpeg
   - file: /media/img/3/toplukla2.jpeg
+  - file: /media/img/4/01mevillage.jpeg
+  - file: /media/img/4/02pierremonk.jpeg
+  - file: /media/img/4/03acclim.jpeg
+  - file: /media/img/4/04usseat.jpeg
+  - file: /media/img/4/05swater.jpeg
+  - file: /media/img/4/06stupasun.jpeg
+  - file: /media/img/4/07moon.jpeg
+  - file: /media/img/4/08pierreland.jpeg
+  - file: /media/img/4/09jbland.jpeg
+  - file: /media/img/4/10flaglake.jpeg
+  - file: /media/img/4/11gokyoview.jpeg
+  - file: /media/img/4/12everest.jpeg
+  - file: /media/img/4/13jbeverest.jpeg
+  - file: /media/img/4/14pierreeverest.jpeg
+  - file: /media/img/4/15lakeup.jpeg
+  - file: /media/img/4/16lakedown.jpeg
+  - file: /media/img/4/17lakeup2.jpeg
+  - file: /media/img/4/18ustop.jpeg
+  - file: /media/img/4/19amabc.jpeg
+  - file: /media/img/4/20yak.jpeg
+  - file: /media/img/4/21valley.jpeg
+  - file: /media/img/4/22kern.jpeg
+  - file: /media/img/4/23everest.jpeg
+  - file: /media/img/4/24snow.jpeg
+  - file: /media/img/4/25horizon.jpeg
+  - file: /media/img/4/26amastuppa.jpeg
 ---
 
 <div class="album">
