@@ -95,7 +95,7 @@ Réveil OK: les maux de tête de Pierre ont disparu et la respiration s'est quel
 
 <figure>
    <img src="/media/img/4/17lakeup2.jpeg" />
-   <figcaption>Vu sur les lacs de Gokyo</figcaption>
+   <figcaption>Vue sur les lacs de Gokyo</figcaption>
 </figure>
 
 ### Jour 19
