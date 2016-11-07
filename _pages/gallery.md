@@ -64,6 +64,15 @@ photos:
   - file: /media/img/4/24snow.jpeg
   - file: /media/img/4/25horizon.jpeg
   - file: /media/img/4/26amastuppa.jpeg
+  - file: /media/img/5/asset-1.jpg
+  - file: /media/img/5/asset-2.jpg
+  - file: /media/img/5/asset-3.jpg
+  - file: /media/img/5/asset-4.jpg
+  - file: /media/img/5/asset-5.jpg
+  - file: /media/img/5/asset-6.jpg
+  - file: /media/img/5/asset-7.jpg
+  - file: /media/img/5/asset-8.jpg
+  - file: /media/img/5/asset-9.jpg
 ---
 
 <div class="album">
