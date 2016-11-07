@@ -77,7 +77,7 @@ Quelle folle journée !
 - 7h30 panne mécanique. Nous attendons 4h l'arrivée du mécanicien qui après s'être glissé sous le châssis décide de remplacer la lame d'acier cassée par... une planche en bois taillée à la machette ! Artisanal... 12h30 nous repartons. 
 - 15h30 route barrée à cause d'un accident. Nous devons alors faire un détour de 7h et le chauffeur demande à chaque passage 200 roupies pour refaire le plein. Augmentation qui n'est pas appréciée par tous. Les esprits s'échauffent et deux hommes sont séparés avant d'en venir aux mains. 
 - 22h, Dahl Bat. 
-- Minuit, le bus s'arrête au milieu de nulle part et les gens commencent à se souhaiter bonne nuit. Incompréhension, on nous apprend que le chauffeur a besoin de dormir 3h. Super...
+- Minuit, le bus s'arrête au milieu de nulle part et les gens commencent à se souhaiter bonne nuit. Incompréhension. On nous apprend que le chauffeur a besoin de dormir 3h. Super...
 - 5h, arrivée à la Guest House. Le réveil de la veille se met à sonner. Ah, nous sommes partis 24h plus tôt !
 
 ### Jours 30 et 31
