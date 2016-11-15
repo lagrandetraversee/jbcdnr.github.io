@@ -93,6 +93,7 @@ photos:
   - file: /media/img/6/asset-3.jpg
   - file: /media/img/6/asset-2.jpg
   - file: /media/img/6/asset-1.jpg
+  - file: /media/img/6/asset.jpg
 ---
 
 <div class="album">
