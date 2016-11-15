@@ -68,7 +68,7 @@ Journée plus facile que celle de la veille. Nous marchons sur de la piste, le l
 
 <figure>
    <img src="/media/img/6/asset-2.jpg" />
-   <figcaption>Couchée de soleil à notre arrivée</figcaption>
+   <figcaption>Coucher de soleil à notre arrivée</figcaption>
 </figure>
 
 ### Jour 37
@@ -82,7 +82,7 @@ On profite de la présence d'un marchand de beignets pour nous aider à digérer
 
 <figure>
    <img src="/media/img/6/asset-1.jpg" />
-   <figcaption>Vu depuis Ghorka</figcaption>
+   <figcaption>Vue depuis Ghorka</figcaption>
 </figure>
 
 
