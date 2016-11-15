@@ -15,5 +15,5 @@ Il nous tarde de reprendre la route. Départ prévu demain avec une petite remis
 
 <figure>
    <img src="/media/img/6/asset.jpg" />
-   <figcaption>Pierre et Jean-Baptiste tentent des œufs à la coq, discrètement sur le toit de l'hôtel</figcaption>
+   <figcaption>Pierre et Jean-Baptiste tentent des œufs à la coque, discrètement sur le toit de l'hôtel</figcaption>
 </figure>
