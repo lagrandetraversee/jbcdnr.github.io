@@ -24,7 +24,7 @@ Continuons de remonter la vallée. Notre rythme est moins soutenu qu'auparavant 
 
 <figure>
    <img src="/media/img/7/asset-2.jpg" />
-   <figcaption>Rivière que nous longeons dans la vallée</figcaption>
+   <figcaption>Rivière longée dans la vallée</figcaption>
 </figure>
 
 ### Jour 43
@@ -64,7 +64,7 @@ Bonnets, gants et collants sont de retour ! Le froid est glacial lors des premi�
 
 ### Jour 46
 
-*Manang nous voilà*
+*Manang nous voilà !*
 
 Commençons la journée avec un bon rythme de marche, jusqu'à ce que la lumière du soleil nous rattrape. Que les paysages sont beaux ! Les sommets enneigés contrastent avec les pentes rocailleuses des montagnes. À cela s'ajoute de belles et larges vallées traversées par de jolies cours d'eau d'un bleu vif. Splendide ! La marche est facile et nous permet de profiter pleinement de cette atmosphère paisible. Demain, nous commençons notre acclimatation.
 
@@ -82,7 +82,7 @@ Normalement, nous devrions marcher quelques heures pour une meilleure acclimatat
 
 <figure>
    <img src="/media/img/7/asset-19.jpg" />
-   <figcaption>Pierre et Jean-Baptiste face aux massif des Annapurnas</figcaption>
+   <figcaption>Pierre et Jean-Baptiste face au massif des Annapurnas</figcaption>
 </figure>
 
 
