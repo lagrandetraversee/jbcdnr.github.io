@@ -1,9 +1,11 @@
 ---
 layout: post
-title: 
+title: Sur le circuit des Annapurnas
 ---
 
 ### Jour 41
+
+*Reprise en douceur*
 
 Départ 9h, pour une demi-journée de remise en route. Nous arrivons vers midi dans le village de Bhulbule, au bord de la rivière que nous longerons les 5 prochains jours. Rencontre avec un Écossais, un Israélien, une Hollandaise et un Thaïlandais au dîner. 
 
@@ -15,6 +17,8 @@ Départ 9h, pour une demi-journée de remise en route. Nous arrivons vers midi d
 
 ### Jour 42
 
+*Le long de la rivière*
+
 Continuons de remonter la vallée. Notre rythme est moins soutenu qu'auparavant et nous en profitons pour admirer le paysage. Nous longeons des gorges étroites et profondes où l'eau bleu azure bouillonne dans des "marmites de géant". 
 
 
@@ -25,7 +29,9 @@ Continuons de remonter la vallée. Notre rythme est moins soutenu qu'auparavant 
 
 ### Jour 43
 
-Le temps commence à se rafraîchir. Nous sommes à la fin de la saison de trekking. Les touristes se font de plus en plus rares sur le chemin et nous apprécions une certaine solitude le soir dans les lodges. Quel changement par rapport aux flux touristiques de la région de l'Everest. Arrivée en début d'après-midi à Dharapani pour une douche chaude et du repos. Anecdote du jour: singes, chèvres et chiens font bon ménage au village. 
+*Vent frais, belle rivière*
+
+Le temps commence à se rafraîchir. Nous sommes à la fin de la saison de trekking. Les touristes se font de plus en plus rares sur le chemin et nous apprécions une certaine solitude le soir dans les lodges. Quel changement par rapport aux flux touristiques de la région de l'Everest. Arrivée en début d'après-midi à Dharapani pour une douche chaude et du repos. Singes, chèvres et chiens font bon ménage au village. 
 
 
 <figure>
@@ -46,6 +52,8 @@ Le temps commence à se rafraîchir. Nous sommes à la fin de la saison de trekk
 
 ### Jour 45
 
+*Avec Bob Marley*
+
 Bonnets, gants et collants sont de retour ! Le froid est glaciale lors des premières heures de marche. Nous sommes maintenant fin novembre et chaque matin le soleil se fait attendre avec impatience. En chemin, nous observons les cascades gelées comme si le temps s'était arrêté. Stoppons notre journée dans la lodge "Bob Marley" de Lower Pissang, où nous dégustons le meilleur Dal Bhat que nous ayons mangé depuis la frontière Est. Non, la marihuana n'était pas dans nos assiettes mais juste au dessus de nos têtes en train de sécher à la chaleur du poêle. Jean-Baptiste a de nouveau mal à la cheville et Pierre déclare une tendinite, quelle fine équipe !
 
 
@@ -56,6 +64,8 @@ Bonnets, gants et collants sont de retour ! Le froid est glaciale lors des premi
 
 ### Jour 46
 
+*Manang nous voilà*
+
 Commençons la journée avec un bon rythme de marche, jusqu'à ce que la lumière du soleil nous rattrape. Que les paysages sont beaux ! Les sommets enneigés contrastent avec les pentes rocailleuses des montagnes. À cela s'ajoute de belles et larges vallées traversées par de jolies cours d'eau d'un bleu vif. Splendide ! La marche est facile et nous permet de profiter pleinement de cette atmosphère paisible. Demain commence notre acclimatation.
 
 
@@ -65,6 +75,8 @@ Commençons la journée avec un bon rythme de marche, jusqu'à ce que la lumièr
 </figure>
 
 ### Jour 47
+
+*Repos & acclimatation*
 
 Normalement, nous devrions marcher quelques heures pour une meilleure acclimatation. Mais nos tendons préfèrent le repos. Nous n'irons probablement plus très loin à pied étant donné l'état de nos chevilles. Alors nous mettons toutes les chances de notre côté pour franchir le Thorong La (5416m) et redescendre. Repos donc ! Après le col, ce sera une autre histoire...
 
