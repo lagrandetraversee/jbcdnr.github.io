@@ -94,6 +94,24 @@ photos:
   - file: /media/img/6/asset-2.jpg
   - file: /media/img/6/asset-1.jpg
   - file: /media/img/6/asset.jpg
+  - file: /media/img/7/asset-1.jpg
+  - file: /media/img/7/asset-2.jpg
+  - file: /media/img/7/asset-3.jpg
+  - file: /media/img/7/asset-4.jpg
+  - file: /media/img/7/asset-5.jpg
+  - file: /media/img/7/asset-6.jpg
+  - file: /media/img/7/asset-7.jpg
+  - file: /media/img/7/asset-8.jpg
+  - file: /media/img/7/asset-9.jpg
+  - file: /media/img/7/asset-10.jpg
+  - file: /media/img/7/asset-11.jpg
+  - file: /media/img/7/asset-12.jpg
+  - file: /media/img/7/asset-13.jpg
+  - file: /media/img/7/asset-14.jpg
+  - file: /media/img/7/asset-15.jpg
+  - file: /media/img/7/asset-16.jpg
+  - file: /media/img/7/asset-17.jpg
+  - file: /media/img/7/asset-18.jpg
 ---
 
 <div class="album">
