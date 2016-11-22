@@ -116,7 +116,7 @@ photos:
 ---
 
 <div class="album">
-  {% for img in page.photos %}
+  {% for img in page.photos reversed %}
    <figure>
       <img src="{{ img.file }}" />
       {% if img.caption %}
