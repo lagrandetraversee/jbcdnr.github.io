@@ -112,6 +112,7 @@ photos:
   - file: /media/img/7/asset-16.jpg
   - file: /media/img/7/asset-17.jpg
   - file: /media/img/7/asset-18.jpg
+  - file: /media/img/7/asset-19.jpg
 ---
 
 <div class="album">

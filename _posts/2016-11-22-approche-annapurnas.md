@@ -80,6 +80,11 @@ Commençons la journée avec un bon rythme de marche, jusqu'à ce que la lumièr
 
 Normalement, nous devrions marcher quelques heures pour une meilleure acclimatation mais nos tendons préfèrent le repos. Nous n'irons probablement plus très loin à pied étant donné l'état de nos chevilles. Nous mettons toutes les chances de notre côté pour franchir le Thorong La (5416m) et redescendre. Repos donc ! Après le col, ce sera une autre histoire...
 
+<figure>
+   <img src="/media/img/7/asset-19.jpg" />
+   <figcaption>Pierre et Jean-Baptiste face aux massif des Annapurnas</figcaption>
+</figure>
+
 
 Jour | Date | Itinéraire | Dénivelé cumulé (m)
 --- | --- | --- | --- 
