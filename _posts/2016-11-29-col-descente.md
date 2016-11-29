@@ -70,6 +70,12 @@ Nous redescendons vers le sud en suivant la vallée séparant l'Annapurna I (809
 
 Pour la première fois depuis un mois, le temps est nuageux. Nous sommes un peu déçus de ne pas profiter de la vue sur le Dhaulagiri. Suivons le chemin de trek dans la vallée et traversons la rivière sur des ponts de fortune empruntables seulement en hiver, lorsque le niveau de l'eau est suffisamment bas. Arrivée à Ghasa après 6h de marche. 
 
+### Jour 54
+
+*Dernier jour de trek*
+
+En route vers Tatopani, dernier village étape en sortie des Annapurnas. Difficile de dire si nous sommes excités par ces derniers kilomètres ou si nous sommes tristes de mettre un terme à notre marche entamée presque 2 mois plus tôt. Jean-Baptiste a de nouveau mal à la cheville et Pierre soigne un début de tendinite. Il est sans doute préférable de s'arrêter là. Finie l'aventure sportive, nous continuons désormais en stop sur les derniers jours en espérant vivre une semaine riche de rencontres humaines. 
+
 
 Jour | Date | Itinéraire | Dénivelé cumulé (m)
 --- | --- | --- | --- 
