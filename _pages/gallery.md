@@ -113,6 +113,30 @@ photos:
   - file: /media/img/7/asset-17.jpg
   - file: /media/img/7/asset-18.jpg
   - file: /media/img/7/asset-19.jpg
+  - file: /media/img/8/asset.jpg
+  - file: /media/img/8/asset-2.jpg
+  - file: /media/img/8/asset-3.jpg
+  - file: /media/img/8/asset-4.jpg
+  - file: /media/img/8/asset-5.jpg
+  - file: /media/img/8/asset-6.jpg
+  - file: /media/img/8/asset-10.jpg
+  - file: /media/img/8/asset-9.jpg
+  - file: /media/img/8/asset-8.jpg
+  - file: /media/img/8/asset-7.jpg
+  - file: /media/img/8/asset-11.jpg
+  - file: /media/img/8/asset-12.jpg
+  - file: /media/img/8/asset-13.jpg
+  - file: /media/img/8/asset-17.jpg
+  - file: /media/img/8/asset-14.jpg
+  - file: /media/img/8/asset-15.jpg
+  - file: /media/img/8/asset-16.jpg
+  - file: /media/img/8/asset-21.jpg
+  - file: /media/img/8/asset-18.jpg
+  - file: /media/img/8/asset-19.jpg
+  - file: /media/img/8/asset-20.jpg
+  - file: /media/img/8/asset-22.jpg
+  - file: /media/img/8/asset-23.jpg
+  - file: /media/img/8/asset-24.jpg
 ---
 
 <div class="album">
