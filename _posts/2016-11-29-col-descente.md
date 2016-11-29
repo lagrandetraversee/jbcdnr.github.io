@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: Passage du Thorong La et fin du trek
 ---
 
 ### Jour 48
