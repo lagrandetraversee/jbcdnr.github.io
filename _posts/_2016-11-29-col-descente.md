@@ -27,14 +27,12 @@ Quittons Ranipauwa à 8h15. A 10h, passons un petit col qui nous sépare de Joms
 
 ### Jour 52
 
-Nous redescendons vers le sud en suivant la vallée séparant l'Annapurna I (80..m) et le Dholagiri (81..m). Nous longeons la rive Est pour éviter le grosse piste et suivre un petit chemin plutôt sympathique. Sans grand succès... Face à une falaise tombant à pic dans la rivière, nous sommes contraint de rebrousser chemin. 1h30 de perdue. Nous nous amusons à regarder les différentes strates de la montagne causées par l'altitude: les forêts de conifères, puis une zone aride ou seul de petits buissons poussent, et enfin des plan de falaises noires surmontés par des sommets enneigés. Décidons d'écourter la journée pour ne pas forcer sur la cheville de Jean-Baptiste. 
+Nous redescendons vers le sud en suivant la vallée séparant l'Annapurna I (8091m) et le Dhaulagiri (8167m). Nous longeons la rive Est pour éviter le grosse piste et suivre un petit chemin plutôt sympathique. Sans grand succès... Face à une falaise tombant à pic dans la rivière, nous sommes contraint de rebrousser chemin. 1h30 de perdue. Nous nous amusons à regarder les différentes strates de la montagne causées par l'altitude: les forêts de conifères, puis une zone aride ou seul de petits buissons poussent, et enfin des plan de falaises noires surmontés par des sommets enneigés. Décidons d'écourter la journée pour ne pas forcer sur la cheville de Jean-Baptiste. 
 
 ### Jour 53
 
-Pour la première fois depuis un mois, le temps est nuageux. Nous sommes un peu déçu de ne pas profiter de la vue sur le Dhalogeri. Suivons le chemin de trek dans la vallée et traversons la rivière sur des ponts de fortunes empruntable seulement en hiver, lorsque le niveau de l'eau est suffisamment bas. Arrivée à Ghasa après 6h de marche. 
+Pour la première fois depuis un mois, le temps est nuageux. Nous sommes un peu déçu de ne pas profiter de la vue sur le Dhaulagiri. Suivons le chemin de trek dans la vallée et traversons la rivière sur des ponts de fortunes empruntable seulement en hiver, lorsque le niveau de l'eau est suffisamment bas. Arrivée à Ghasa après 6h de marche. 
 
-TODO Dhaulagiri et altitude
-TODO last dénivelé 
 
 Jour | Date | Itinéraire | Dénivelé cumulé (m)
 --- | --- | --- | --- 
@@ -44,5 +42,5 @@ Jour | Date | Itinéraire | Dénivelé cumulé (m)
 51 | 26 nov | Ranipauwa - Lupra - Jomsom | +150 -1160
 52 | 27 nov | Jomsom - Syang - Marpha - Tukuche | -160
 53 | 28 nov | Tukuche - Larjung - Ghasa | -470
-54 | 29 nov | 
+54 | 29 nov | Ghasa - Tatopani | -810
 
