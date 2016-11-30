@@ -137,6 +137,14 @@ photos:
   - file: /media/img/8/asset-22.jpg
   - file: /media/img/8/asset-23.jpg
   - file: /media/img/8/asset-24.jpg
+  - file: /media/img/8/asset-25.jpg
+  - file: /media/img/8/asset-26.jpg
+  - file: /media/img/8/asset-27.jpg
+  - file: /media/img/8/asset-28.jpg
+  - file: /media/img/8/asset-29.jpg
+  - file: /media/img/8/asset-30.jpg
+  - file: /media/img/8/asset-31.jpg
+  - file: /media/img/8/asset-32.jpg
 ---
 
 <div class="album">
