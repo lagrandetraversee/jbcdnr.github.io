@@ -62,7 +62,11 @@ Quittons Ranipauwa à 8h15. A 10h, passons un petit col qui nous sépare de Joms
 
 Nous redescendons vers le sud en suivant la vallée séparant l'Annapurna I (8091m) et le Dhaulagiri (8167m). Nous longeons la rive Est pour éviter le grosse piste et nous suivons un petit chemin plutôt sympathique. Sans grand succès... Face à une falaise tombant à pic dans la rivière, nous sommes contraint de rebrousser chemin. 1h30 de perdue. Décidons d'écourter la journée pour ne pas forcer sur la cheville de Jean-Baptiste.
 
-<!-- Nous nous amusons à regarder les différentes strates de la montagne causées par l'altitude: les forêts de conifères, puis une zone aride ou seul de petits buissons poussent, et enfin des plan de falaises noires surmontés par des sommets enneigés. -->
+
+<figure>
+   <img src="/media/img/8/asset-28.jpg" />
+   <figcaption>Différentes strates de la montagne causées par l'altitude: les forêts de conifères, puis une zone aride ou seul de petits buissons poussent, et enfin des plan de falaises noires surmontés par des sommets enneigés</figcaption>
+</figure>
 
 ### Jour 53
 
@@ -70,11 +74,23 @@ Nous redescendons vers le sud en suivant la vallée séparant l'Annapurna I (809
 
 Pour la première fois depuis un mois, le temps est nuageux. Nous sommes un peu déçus de ne pas profiter de la vue sur le Dhaulagiri. Suivons le chemin de trek dans la vallée et traversons la rivière sur des ponts de fortune empruntables seulement en hiver, lorsque le niveau de l'eau est suffisamment bas. Arrivée à Ghasa après 6h de marche. 
 
+
+<figure>
+   <img src="/media/img/8/asset-27.jpg" />
+   <figcaption>Vallée traversée à la mi-journée</figcaption>
+</figure>
+
 ### Jour 54
 
 *Dernier jour de trek*
 
 En route vers Tatopani, dernier village étape en sortie des Annapurnas. Difficile de dire si nous sommes excités par ces derniers kilomètres ou si nous sommes tristes de mettre un terme à notre marche entamée presque 2 mois plus tôt. Jean-Baptiste a de nouveau mal à la cheville et Pierre soigne un début de tendinite. Il est sans doute préférable de s'arrêter là. Finie l'aventure sportive, nous continuons désormais en stop sur les derniers jours en espérant vivre une semaine riche de rencontres humaines. 
+
+
+<figure>
+   <img src="/media/img/8/asset-32.jpg" />
+   <figcaption>Fin du trek: gros mollets & gros beignets</figcaption>
+</figure>
 
 
 Jour | Date | Itinéraire | Dénivelé cumulé (m)
