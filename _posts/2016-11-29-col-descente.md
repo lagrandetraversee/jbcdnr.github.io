@@ -52,7 +52,7 @@ Quittons Ranipauwa à 8h15. A 10h, passons un petit col qui nous sépare de Joms
 
 
 <figure>
-   <img src="/media/img/8/asset-20.jpg" />
+   <img src="/media/img/8/asset-24.jpg" />
    <figcaption>Vue sur le Dhaulagiri (8167m)</figcaption>
 </figure>
 
