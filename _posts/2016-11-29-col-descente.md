@@ -65,7 +65,7 @@ Nous redescendons vers le sud en suivant la vallée séparant l'Annapurna I (809
 
 <figure>
    <img src="/media/img/8/asset-28.jpg" />
-   <figcaption>Différentes strates de la montagne causées par l'altitude: les forêts de conifères, puis une zone aride ou seul de petits buissons poussent, et enfin des plan de falaises noires surmontés par des sommets enneigés</figcaption>
+   <figcaption>Différentes strates de la montagne causées par l'altitude: forêts de conifères, zone aride, et enfin falaises noires surmontées par des sommets enneigés</figcaption>
 </figure>
 
 ### Jour 53
