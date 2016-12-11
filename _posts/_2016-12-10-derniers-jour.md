@@ -23,11 +23,11 @@ Prévoyant que nous sommes, nous décidons de nous pencher sur la carte après c
    <figcaption>Avec l'équipage du camion Tata</figcaption>
 </figure>
 
-Direction Pokhara, seconde ville du pays, très appréciée des trekers pour son lac et les nombreuses activités touristiques qu'elle offre. Aller, on y va en stop car c'est quand même marrant !
+Direction Pokhara, seconde ville du pays très appréciée des trekkers pour son lac et les nombreuses activités touristiques qu'elle offre. Aller, on y va en stop car c'est quand même marrant !
 
-### Pokhara, détend toi
+### A Pokhara, détend toi
 
-Grâce matinée, balade au bord du lac, dégustation du vin local, d'une "french baguette" et d'une pizza italienne... Deux jours de repos dans un hôtel comprenant des lits équipes de draps et une salle de bain avec douche chaude. Le summum du luxe !
+Grâce matinée, balade au bord du lac, dégustation du vin local, d'une "french baguette" et d'une pizza italienne... Deux jours de repos dans un hôtel comprenant des lits équipés de draps et une salle de bain avec douche chaude. Le summum du luxe !
 
 
 <figure>
@@ -45,11 +45,11 @@ En route pour Lumbini. Rencontrons 3 Français dans le bus avec qui nous partage
    <figcaption>Statue du Buddha</figcaption>
 </figure>
 
-Aujourd'hui, visite de Lumbini. Pierre commence la journée par un cours de yoga avec l'un des Francais rencontré la veille. S'enchaîne petit déjeuner puis visite du lieu où naquit Buddha au XIème siècle avant JC. Autant dire la Mecque ou le Jérusalem des boudhistes. Nous sommes un peu déçu de ne pas trouver de véritable ambiance spirituelle. Au lieu de ça, nous trouvons une multitude de monastères sans grande cohérence les uns par rapport aux autres si ce n'est qu'ils donnent l'impression d'avoir été l'objet d'une course au pays qui aura construit le plus beau pavillon bouddhiste. 
+Aujourd'hui, visite de Lumbini. Pierre commence la journée par un cours de yoga avec l'un des Francais rencontré la veille. S'enchaînent petit-déjeuner puis visite du lieu où naquit Buddha au XIème siècle avant JC. Autant dire la Mecque ou le Jérusalem des bouddhistes. Nous sommes un peu déçus de ne pas trouver de véritable ambiance spirituelle. Au lieu de ça, nous trouvons une multitude de monastères sans grande cohérence les uns par rapport aux autres si ce n'est qu'ils donnent l'impression d'avoir été l'objet d'une course au pays qui aura construit le plus beau pavillon bouddhiste. 
 
 <figure>
    <img src="/media/img/9/asset-10.jpg" />
-   <figcaption>L'un des multiples temples</figcaption>
+   <figcaption>L'un des nombreux temples</figcaption>
 </figure>
 
 Restons une journée de plus sur place, car une grève bloque le Sud du pays. Visitons d'autres temples avant de prendre le bus de nuit qui nous ramènera à Kathmandu. 10h de transport, toujours sur des routes chaotiques mais sans accroche cette fois. Arrivée à 4h du matin, au calme dans la capitale. 
