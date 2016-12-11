@@ -50,3 +50,7 @@ Derniers jours à Kathmandu. Fêtons la fin de notre voyage entre petites visite
 Nous sommes très heureux d'avoir parcouru autant de chemin pendant ces 75 jours malgré une fin de trek arrivée plus tôt que prévue. Nous garderons un souvenir marquant de cette aventure qui a été éprouvante mais extraordinaire à vivre !!
 
 
+<figure>
+   <img src="/media/img/9/asset-20.jpg" />
+   <figcaption>Dernier Dal Bhat avant l'avion</figcaption>
+</figure>
