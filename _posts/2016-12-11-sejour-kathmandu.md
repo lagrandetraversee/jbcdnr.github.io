@@ -43,8 +43,10 @@ Troisième ancienne ville royale du Népal (avec Kathmandu et Bhaktapur) située
    <figcaption>Durbar Square de Patan</figcaption>
 </figure>
 
-### Souvenirs, souvenirs
+### Souvenirs, souvenirs...
 
+Derniers jours à Kathmandu. Fêtons la fin de notre voyage entre petites visites, achat de souvenirs et bonnes bouffes. 
 
+Nous sommes très heureux d'avoir parcouru autant de chemin pendant ces 75 jours malgré une fin de trek arrivée plus tôt que prévue. Nous garderons un souvenir marquant de cette aventure qui a été éprouvante mais extraordinaire à vivre !!
 
 
