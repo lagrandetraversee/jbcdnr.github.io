@@ -5,9 +5,9 @@ layout: post
 
 ### Stop qui peut !
 
-Trek terminé, nous avons décider de poursuivre l'aventure en stop jusqu'à la frontière Ouest. Avant de lever nos pouces sur le bord des routes népalaise, nous souhaitons nous rendre aux fameuses sources d'eau chaude de Tatopani, à quelques minutes à pied de notre lodge. Quel bonheur de se prélasser au soleil dans ces grandes baignoires en pierre. Moment d'autant plus agréable que nous en profitons pour nous laver. 
+Trek terminé, nous avons décidé de poursuivre l'aventure en stop jusqu'à la frontière Ouest. Avant de lever nos pouces sur le bord des routes népalaises, nous souhaitons nous rendre aux fameuses sources d'eau chaude de Tatopani, à quelques minutes à pied de notre lodge. Quel bonheur de se prélasser au soleil dans ces grandes baignoires en pierre ! Moment d'autant plus agréable que nous en profitons pour nous laver. 
 
-Fini la détente. Après un bol de nouilles avalées en vitesse, nous hélons un camion qui arrivé à notre hauteur. Le chauffeur accepte de nous prendre dans sa benne pour quelques kilomètres, génial ! Sommes cramponnés à la cabine, sac coincés entre les jambes: la route est très chaotique surtout qu'il y a eu un éboulement il y a à peine 10 jours. Rebelotte avec un deuxième camion. Cette fois nous sommes assis dans la cabine d'un gros transporteur de marque Tata, un de ceux qui sillonne les 4 coins du pays chargés de marchandises. Notre chauffeur, que dire, notre pilote s'amuse à nous voir nous cogner la tête au plafond à chaque rebond du camion. Atteignons Beni où nous passons la nuit. 
+Fini la détente. Après un bol de nouilles avalé en vitesse, nous hélons un camion qui arrive à notre hauteur. Le chauffeur accepte de nous prendre dans sa benne pour quelques kilomètres, génial ! Sommes cramponnés à la cabine, sac coincés entre les jambes: la route est très chaotique surtout qu'il y a eu un éboulement il y a à peine 10 jours. Rebelotte avec un deuxième camion. Cette fois nous sommes assis dans la cabine d'un gros transporteur de marque Tata, un de ceux qui sillonnent les 4 coins du pays chargés de marchandises. Notre chauffeur, que dire, notre pilote s'amuse à nous voir nous cogner la tête au plafond à chaque rebond du camion. Atteignons Beni où nous passons la nuit. 
 
 
 <figure>
@@ -37,7 +37,7 @@ Grâce matinée, balade au bord du lac, dégustation du vin local, d'une "french
 
 ### Lumbini
 
-En route pour Lumbini. Rencontrons 3 Français dans le bus avec qui nous partageons la banquette arrière. Et qui dit bus, dit problème. À midi, notre chauffeur nous annonce que nous ne reprendront la route qu'à 16h. Pourquoi pas... Arrivons à Lumbini sur les coups de 20h. Trouvons une chambre que. Oui partageons à 5. 
+En route pour Lumbini. Rencontrons 3 Français dans le bus avec qui nous partageons la banquette arrière. Et qui dit bus, dit problème. À midi, notre chauffeur nous annonce que nous ne reprendrons la route qu'à 16h. Pourquoi pas... Arrivons à Lumbini sur les coups de 20h. Trouvons une chambre que nous partageons à 5. 
 
 
 <figure>
@@ -45,8 +45,7 @@ En route pour Lumbini. Rencontrons 3 Français dans le bus avec qui nous partage
    <figcaption>Statue du Buddha</figcaption>
 </figure>
 
-Aujourd'hui, visite de Lumbini. Pierre commence la journée par un cours de yoga avec l'un des Francais rencontré la veille qui revient tout juste d'un séjour en Inde où il a suivi une formation de... yoga. S'enchaîne petit déjeuner puis visite du lieu où naquit Buddha au XIème siècle avant JC. Autant dire la Mecque ou le Jérusalem des boudhistes. Nous sommes un peu déçu de ne pas trouver de véritable ambiance spirituel. Au lieu de ça, nous trouvons une multitude de monastères sans grande cohérence les uns par rapport aux autres si ce n'est qu'ils donnent l'impression d'avoir été l'objet d'une course au pays qui aura construit le plus beau pavillon bouddhiste. 
-
+Aujourd'hui, visite de Lumbini. Pierre commence la journée par un cours de yoga avec l'un des Francais rencontré la veille. S'enchaîne petit déjeuner puis visite du lieu où naquit Buddha au XIème siècle avant JC. Autant dire la Mecque ou le Jérusalem des boudhistes. Nous sommes un peu déçu de ne pas trouver de véritable ambiance spirituelle. Au lieu de ça, nous trouvons une multitude de monastères sans grande cohérence les uns par rapport aux autres si ce n'est qu'ils donnent l'impression d'avoir été l'objet d'une course au pays qui aura construit le plus beau pavillon bouddhiste. 
 
 <figure>
    <img src="/media/img/9/asset-10.jpg" />
@@ -59,7 +58,7 @@ Restons une journée de plus sur place, car une grève bloque le Sud du pays. Vi
 
 *Arrivée à Kathmandu*
 
-Direction l'Annapurna Guest House pour récupérer les affaires laissés à notre dernier passage. Petit déjeuner avec le gérant qui est heureux d'avoir de nos nouvelles. Nous passerons nos 5 derniers jours à Kathmandu dans une auberge de jeunesse moins chère et très conviviale. 
+Direction l'Annapurna Guest House pour récupérer les affaires laissées à notre dernier passage. Petit déjeuner avec le gérant qui est heureux d'avoir de nos nouvelles. Nous passerons nos 5 derniers jours à Kathmandu dans une auberge de jeunesse moins chère et très conviviale. 
 
 Matin: repos suite à notre voyage nocturne. Après-midi: visite à pied de l'Est de la ville. 
 
@@ -83,7 +82,7 @@ TODO
 
 *Visite de Bhaktapur*
 
-Une heure de bus local pour arriver dans la principale ville Newar (ethnie reconnue pour son savoir faire arrisanal) en banlieue de Kathmandu. Déambulons dans un dédale de rues pavées entre les temples et à travers Durbar Square. Nous nous sentons dépassés par le nombre de divinités et par la multitude d'anecdotes qui s'y rapportent. Les portiques en bois sont finement sculptés et les boiseries abondent au plafond. Nous profitons d'un détour pour nous glisser dans un atelier de fabrication de papier de riz. Fin de journée, nous dégustons les fameux yaourt de Bhaktapur dans des bols en terre cuite. 
+Une heure de bus local pour arriver dans la principale ville Newar (ethnie reconnue pour son savoir faire arrisanal) en banlieue de Kathmandu. Déambulons dans un dédale de rues pavées entre les temples et à travers Durbar Square. Nous nous sentons dépassés par le nombre de divinités et par la multitude d'anecdotes qui s'y rapportent. Les portiques en bois sont finement sculptés et les boiseries abondent au plafond. Nous profitons d'un détour pour nous glisser dans un atelier de fabrication de papier de riz. Fin de journée, nous dégustons les fameux yaourts de Bhaktapur dans des bols en terre cuite. 
 
 
 <figure>
@@ -94,7 +93,7 @@ TODO
 
 *Visite de Patan*
 
-Troisième ancienne ville royal du Népal (avec Kathmandu et Bhaktapur) située au Sud de la capitale. Nous visitons le temple d'or, Durbar Square, le Palais Royal et les alentours. Temple après temple, nous finissons par passer devant de plus en plus rapidement... Le soir nous nous rendons dans une pizzeria afin de déguster une margarita et un tiramisu. Divin ! Bien évidement, c'est avant tout pour faciliter la transition avec l'Europe. 
+Troisième ancienne ville royale du Népal (avec Kathmandu et Bhaktapur) située au Sud de la capitale. Nous visitons le temple d'or, Durbar Square, le Palais Royal et les alentours. Temple après temple, nous finissons par passer devant de plus en plus rapidement... Le soir, nous nous rendons dans une pizzeria afin de déguster une margarita et un tiramisu. Divin ! Bien évidement, c'est avant tout pour faciliter la transition avec l'Europe. 
 
 <figure>
    <img src="/media/img/9/asset-19.jpg" />
