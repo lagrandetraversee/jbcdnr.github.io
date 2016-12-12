@@ -32,7 +32,7 @@ Prévoyant que nous sommes, nous décidons de nous pencher sur la carte après c
 
 En route pour Pokhara, seconde ville du pays très appréciée des trekkers pour son lac et les nombreuses activités touristiques qu'elle offre. Aller, on y va en stop car c'est quand même marrant !
 
-### A Pokhara, détend toi
+### A Pokhara, détends toi
 
 Grâce matinée, balade au bord du lac, dégustation du vin local, d'une "french baguette" et d'une pizza italienne... Deux jours de repos dans un hôtel comprenant des lits avec draps et une salle de bain avec douche chaude. Le summum du luxe !
 
@@ -52,7 +52,7 @@ En route pour Lumbini. Rencontrons 3 Français dans le bus avec qui nous partage
    <figcaption>Statue de Buddha</figcaption>
 </figure>
 
-Aujourd'hui, visite de Lumbini. Pierre commence la journée par un cours de yoga avec l'un des Francais rencontré la veille. S'enchaînent petit-déjeuner puis visite du lieu où Buddha vécut au VIème siècle avant JC. Autant dire la Mecque ou la Jérusalem des bouddhistes. Nous sommes un peu déçus de ne pas trouver de véritable ambiance spirituelle. Au lieu de ça, nous trouvons une multitude de monastères sans grande cohérence les uns par rapport aux autres si ce n'est qu'ils donnent l'impression d'avoir été l'objet d'une course au pays qui aura construit le plus beau pavillon bouddhiste. 
+Aujourd'hui, visite de Lumbini. Pierre commence la journée par un cours de yoga avec l'un des Français rencontrés la veille. S'enchaînent petit-déjeuner puis visite du lieu où Buddha vécut au VIème siècle avant JC. Autant dire la Mecque ou la Jérusalem des bouddhistes. Nous sommes un peu déçus de ne pas trouver de véritable ambiance spirituelle. Au lieu de ça, nous trouvons une multitude de monastères sans grande cohérence les uns par rapport aux autres si ce n'est qu'ils donnent l'impression d'avoir été l'objet d'une course au pays qui aura construit le plus beau pavillon bouddhiste. 
 
 <figure>
    <img src="/media/img/9/asset-10.jpg" />
