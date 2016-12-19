@@ -5,7 +5,7 @@ weight:    100
 menutitle: Galerie
 title:     Les Photos
 excerpt:   Toutes les images de nos aventures au Népal.
-photos: 
+photos:
   - file: /media/img/1/colors.jpg
   - file: /media/img/1/jb.jpg
   - file: /media/img/1/pierre.jpg
@@ -147,7 +147,7 @@ photos:
   - file: /media/img/8/asset-32.jpg
   - file: /media/img/9/asset-2.jpg
   - file: /media/img/9/asset-3.jpg
-  - file: /media/img/8/asset-4.jpg
+  - file: /media/img/9/asset-4.jpg
   - file: /media/img/9/asset-5.jpg
   - file: /media/img/9/asset-6.jpg
   - file: /media/img/9/asset-7.jpg
